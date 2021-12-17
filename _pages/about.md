@@ -31,7 +31,8 @@ Publications
 
 > <a href="https://sunghwanhong.github.io/CATs/">CATs: Cost Aggregation Transformers for Visual Correspondence</a>
 >> **Seokju Cho**\*, Sunghwan Hong*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, and Seungryong Kim<br>
->> Neural Information Processing Systems (**NeurIPS**), 2021.
+>> Neural Information Processing Systems (**NeurIPS**), 2021.<br>
+>> <a href="https://sunghwanhong.github.io/CATs/">[Project Page]</a> <a href="https://arxiv.org/abs/2106.02520">[arXiv]</a> <a href="https://github.com/SunghwanHong/Cost-Aggregation-transformers">[Github]</a>
 
 Honors
 ======
