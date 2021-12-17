@@ -29,10 +29,10 @@ Publications
 > AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning<br>
 >> Jiwon Kim*, Kwangrok Ryoo*, Gyunseong Lee, **Seokju Cho**, Junyoung Seo, Daehwan Kim, Hansang Cho, and Seungryong Kim (Under Review)
 
-> <a href="https://sunghwanhong.github.io/CATs/">CATs: Cost Aggregation Transformers for Visual Correspondence</a>
+> CATs: Cost Aggregation Transformers for Visual Correspondence
 >> **Seokju Cho**\*, Sunghwan Hong*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, and Seungryong Kim<br>
 >> Neural Information Processing Systems (**NeurIPS**), 2021.<br>
->> <a href="https://sunghwanhong.github.io/CATs/">[Project Page]</a> <a href="https://arxiv.org/abs/2106.02520">[arXiv]</a> <a href="https://github.com/SunghwanHong/Cost-Aggregation-transformers">[Github]</a>
+>> <i style='font-style: normal;'><a href="https://sunghwanhong.github.io/CATs/">[Project Page]</a> <a href="https://arxiv.org/abs/2106.02520">[arXiv]</a> <a href="https://github.com/SunghwanHong/Cost-Aggregation-transformers">[Github]</a></i>
 
 Honors
 ======
