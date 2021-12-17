@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* B.S. Yonsei University, Mar. 2018 - Feb. 2022 (Expected)
+* B.S. Yonsei University Mar. 2018 - Feb. 2022 (Expected)
 
 Experience
 ======
