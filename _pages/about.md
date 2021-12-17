@@ -24,12 +24,12 @@ Publications
 ======
 
 
-> Cost Aggregation Is All You Need for Few-Shot Segmentation<br>
->> Sunghwan Hong*, **Seokju Cho**\*, Jisu Nam, and Seungryong Kim<br>
->> ArXiv Preprint, 2021.
+> <i style='font-style: normal;'>Cost Aggregation Is All You Need for Few-Shot Segmentation<br></i>
+>> <i style='font-style: normal;'>Sunghwan Hong*, **Seokju Cho**\*, Jisu Nam, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2021.</i>
 
-> AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning<br>
->> Jiwon Kim*, Kwangrok Ryoo*, Gyunseong Lee, **Seokju Cho**, Junyoung Seo, Daehwan Kim, Hansang Cho, and Seungryong Kim (Under Review)
+> <i style='font-style: normal;'>AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning<br></i>
+>> <i style='font-style: normal;'>Jiwon Kim*, Kwangrok Ryoo*, Gyunseong Lee, **Seokju Cho**, Junyoung Seo, Daehwan Kim, Hansang Cho, and Seungryong Kim (Under Review)</i>
 
 > <i style='font-style: normal;'>CATs: Cost Aggregation Transformers for Visual Correspondence</i>
 >> <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, and Seungryong Kim<br></i>
