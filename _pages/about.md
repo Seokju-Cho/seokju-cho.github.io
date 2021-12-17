@@ -23,6 +23,7 @@ Experience
 Publications
 ======
 <i style='font-style: normal;'>
+
 > Cost Aggregation Is All You Need for Few-Shot Segmentation<br>
 >> Sunghwan Hong*, **Seokju Cho**\*, Jisu Nam, and Seungryong Kim<br>
 >> ArXiv Preprint, 2021.
