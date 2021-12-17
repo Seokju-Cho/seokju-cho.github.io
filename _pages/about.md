@@ -10,14 +10,15 @@ redirect_from:
 
 Education
 ======
-* B.S. Yonsei University, Seoul, Korea
+* Yonsei University, Seoul, Korea
+  * B.S. in Computer Science
   * Mar. 2018 - Feb. 2022 (Expected)
 
 Experience
 ======
 * Undergraduate Intern (Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea)
   * Jan. 2021 - Present
-  * Supervised by Prof. <a href="https://seungryong.github.io">Seungryong Kim</a>
+  * Advisor: Prof. <a href="https://seungryong.github.io">Seungryong Kim</a>
 
 Publications
 ======
