@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * B.S. Yonsei University 
-  * Mar. 2018 - Feb. 2022 (Expected)</span>
+  * Mar. 2018 - Feb. 2022 (Expected)
 
 Experience
 ======
