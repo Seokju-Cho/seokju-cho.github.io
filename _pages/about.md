@@ -22,28 +22,27 @@ Experience
 
 Publications
 ======
-* Cost Aggregation Is All You Need for Few-Shot Segmentation
-
+> Cost Aggregation Is All You Need for Few-Shot Segmentation
 > Sunghwan Hong*, **Seokju Cho**\*, Jisu Nam, and Seungryong Kim
-> ArXiv Preprint, 2021.
+>> ArXiv Preprint, 2021.
 
-* AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning
-
+> AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning
 > Jiwon Kim*, Kwangrok Ryoo*, Gyunseong Lee, **Seokju Cho**, Junyoung Seo, Daehwan Kim, Hansang Cho, and Seungryong Kim (Under Review)
 
-* <a href="https://sunghwanhong.github.io/CATs/">CATs: Cost Aggregation Transformers for Visual Correspondence</a>
-
-> **Seokju Cho**\*, Sunghwan Hong*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, and Seungryong Kim
-> Neural Information Processing Systems (**NeurIPS**), 2021.
+> <a href="https://sunghwanhong.github.io/CATs/">CATs: Cost Aggregation Transformers for Visual Correspondence</a>
+>> **Seokju Cho**\*, Sunghwan Hong*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, and Seungryong Kim
+>> Neural Information Processing Systems (**NeurIPS**), 2021.
 
 Honors
 ======
 * Ministry of Science and ICT & National IT Industry Promotion Agency, Sep. 2021
+
 > AI Online Competition, 3rd Place Award, Won 300M KRW
 
 Teaching Experience
 ======
 * Samsung Electronics Computer Vision Advanced Course, Sep. 2021
+
 > Teaching Assistant, Vision and Language Section
 
 Skills
