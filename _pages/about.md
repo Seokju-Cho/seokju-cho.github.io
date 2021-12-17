@@ -15,7 +15,7 @@ Education
 
 Experience
 ======
-* CVLAB, Korea University
+* <a herf="https://cvlab.korea.ac.kr">Korea University CVLAB</a>
   * Jan. 2021 - Present
   * Research Intern
   * Supervised by Prof. <a href="https://seungryong.github.io">Seungryong Kim</a>
