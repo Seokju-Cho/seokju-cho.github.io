@@ -34,7 +34,7 @@ Neural Information Processing Systems (**NeurIPS**), 2021.
 Honors
 ======
 * Ministry of Science and ICT & National IT Industry Promotion Agency, Sep. 2021
-> AI Online Competition, 3rd Place Award
+> AI Online Competition, 3rd Place Award, Won 300M KRW
 
 Teaching Experience
 ======
