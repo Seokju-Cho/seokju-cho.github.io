@@ -43,15 +43,9 @@ Teaching Experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Deep Learning, Machine Learning
+  * Pytorch, Numpy
+* Programming Languages
+  * Python, JavaScript, C/C++
+* Web Framework
+  * React, Node.js, Flask
