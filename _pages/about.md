@@ -23,7 +23,7 @@ Experience
 Publications
 ======
 * Cost Aggregation Is All You Need for Few-Shot Segmentation
-> Sunghwan Hong*, **Seokju Cho**\*, Jisu Nam, Seungryong Kim<br>
+> Sunghwan Hong*, **Seokju Cho**\*, Jisu Nam, and Seungryong Kim<br>
 ArXiv Preprint, 2021.
 * AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning
 > Jiwon Kim*, Kwangrok Ryoo*, Gyunseong Lee, **Seokju Cho**, Junyoung Seo, Daehwan Kim, Hansang Cho, and Seungryong Kim (Under Review)
