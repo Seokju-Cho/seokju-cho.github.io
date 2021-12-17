@@ -22,6 +22,7 @@ Experience
 
 Publications
 ======
+<i style='font-style: normal;'>
 > Cost Aggregation Is All You Need for Few-Shot Segmentation<br>
 >> Sunghwan Hong*, **Seokju Cho**\*, Jisu Nam, and Seungryong Kim<br>
 >> ArXiv Preprint, 2021.
@@ -32,7 +33,8 @@ Publications
 > CATs: Cost Aggregation Transformers for Visual Correspondence
 >> **Seokju Cho**\*, Sunghwan Hong*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, and Seungryong Kim<br>
 >> Neural Information Processing Systems (**NeurIPS**), 2021.<br>
->> <i style='font-style: normal;'><a href="https://sunghwanhong.github.io/CATs/">[Project Page]</a> <a href="https://arxiv.org/abs/2106.02520">[arXiv]</a> <a href="https://github.com/SunghwanHong/Cost-Aggregation-transformers">[Github]</a></i>
+>> <a href="https://sunghwanhong.github.io/CATs/">[Project Page]</a> <a href="https://arxiv.org/abs/2106.02520">[arXiv]</a> <a href="https://github.com/SunghwanHong/Cost-Aggregation-transformers">[Github]</a>
+</i>
 
 Honors
 ======
