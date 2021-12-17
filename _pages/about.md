@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* B.S. Yonsei University 
+* B.S. Yonsei University, Seoul, Korea
   * Mar. 2018 - Feb. 2022 (Expected)
 
 Experience
