@@ -39,12 +39,12 @@ Publications
 Honors
 ======
 * Ministry of Science and ICT & National IT Industry Promotion Agency, Sep. 2021
-> AI Online Competition, 3rd Place Award, Won 300M KRW
+  * AI Online Competition, 3rd Place Award, Won 300M KRW
 
 Teaching Experience
 ======
 * Samsung Electronics Computer Vision Advanced Course, Sep. 2021
-> Teaching Assistant, Vision and Language Section
+  * Teaching Assistant, Vision and Language Section
 
 Skills
 ======
