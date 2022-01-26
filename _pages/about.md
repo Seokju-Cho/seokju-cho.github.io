@@ -31,6 +31,8 @@ Publications
 
 > <i style='font-style: normal;'>AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning<br></i>
 >> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, Gyuseong Lee, **Seokju Cho**, Junyoung Seo, Daehwan Kim, Hansang Cho, and Seungryong Kim (Under Review)</i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2021.<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2201.10444">[arXiv]</a>
 
 > <i style='font-style: normal;'>CATs: Cost Aggregation Transformers for Visual Correspondence</i>
 >> <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, and Seungryong Kim<br></i>
