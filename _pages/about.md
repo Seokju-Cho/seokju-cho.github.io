@@ -23,6 +23,10 @@ Experience
 Publications
 ======
 
+> <i style='font-style: normal;'>CATs++: Boosting Cost Aggregation with Convolutions and Transformers<br></i>
+>> <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2202.06817">[arXiv]</a>
 
 > <i style='font-style: normal;'>Cost Aggregation Is All You Need for Few-Shot Segmentation<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong*, **Seokju Cho**\*, Jisu Nam, and Seungryong Kim<br></i>
