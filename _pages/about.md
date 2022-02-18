@@ -12,7 +12,7 @@ Education
 ======
 * Yonsei University, Seoul, Korea
   * B.S. in Computer Science
-  * Mar. 2018 - Feb. 2022 (Expected)
+  * Mar. 2018 - Feb. 2022
 
 Experience
 ======
@@ -52,6 +52,8 @@ Honors
 Teaching Experience
 ======
 * Samsung Electronics Computer Vision Advanced Course, Sep. 2021
+  * Teaching Assistant, Vision and Language Section
+* LG - Korea University AI Workshop, Feb. 2022
   * Teaching Assistant, Vision and Language Section
 
 Skills
