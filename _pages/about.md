@@ -10,6 +10,11 @@ redirect_from:
 
 Education
 ======
+
+* Korea University, Seoul, Korea
+  * M.S./Ph.D. Integrated Student in Computer Science and Engineering
+  * Mar. 2022 - Present
+
 * Yonsei University, Seoul, Korea
   * B.S. in Computer Science
   * Mar. 2018 - Feb. 2022
@@ -17,7 +22,7 @@ Education
 Experience
 ======
 * Undergraduate Intern (Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea)
-  * Jan. 2021 - Present
+  * Jan. 2021 - Feb. 2022
   * Advisor: Prof. <a href="https://seungryong.github.io">Seungryong Kim</a>
 
 Publications
@@ -28,9 +33,9 @@ Publications
 >> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2202.06817">[arXiv]</a>
 
-> <i style='font-style: normal;'>Cost Aggregation Is All You Need for Few-Shot Segmentation<br></i>
+> <i style='font-style: normal;'>Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong*, **Seokju Cho**\*, Jisu Nam, and Seungryong Kim<br></i>
->> <i style='font-style: normal;'>ArXiv Preprint, 2021.<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://seokju-cho.github.io/VAT/">[Project Page]</a> <a href="https://arxiv.org/abs/2112.11685">[arXiv]</a> <a href="https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer">[Github]</a>
 
 > <i style='font-style: normal;'>AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning<br></i>
@@ -55,6 +60,8 @@ Teaching Experience
   * Teaching Assistant, Vision and Language Section
 * LG - Korea University AI Workshop, Feb. 2022
   * Teaching Assistant, Vision and Language Section
+* Korea Computer Vision Society, Feb. 2022
+  * Teaching Assistant, Coding lecture for first year graduate students, in few-shot segmentation section
 
 Skills
 ======
