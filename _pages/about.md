@@ -21,7 +21,7 @@ Education
 
 Experience
 ======
-* Undergraduate Intern (Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea)
+* M.S./Ph.D. Integrated Student (Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea)
   * Jan. 2021 - Feb. 2022
   * Advisor: Prof. <a href="https://seungryong.github.io">Seungryong Kim</a>
 
