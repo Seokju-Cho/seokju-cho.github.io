@@ -31,7 +31,8 @@ Publications
 > <i style='font-style: normal;'>Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong*, **Seokju Cho**\*, Jisu Nam, Stephen Lin, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>European Conference on Computer Vision (**ECCV**), 2022.<br></i>
-<!-- >> <i style='font-style: normal;'><a href="https://seokju-cho.github.io/VAT/">[Project Page]</a> <a href="https://arxiv.org/abs/2112.11685">[arXiv]</a> <a href="https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer">[Github]</a> -->
+>> <i style='font-style: normal;'><a href="https://seokju-cho.github.io/VAT/">[Project Page]</a> 
+<!-- <a href="https://arxiv.org/abs/2112.11685">[arXiv]</a> <a href="https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer">[Github]</a> -->
 
 > <i style='font-style: normal;'>CATs++: Boosting Cost Aggregation with Convolutions and Transformers<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, and Seungryong Kim<br></i>
