@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Seokju Cho"
 title_separator          : "-"
 name                     : &name "Seokju Cho"
-description              : &description "MS/PhD integrated student @ Korea University CVLAB"
+description              : &description "M.S./Ph.D. integrated student @ Korea University CVLAB"
 url                      : https://seokju-cho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "seokju-cho/seokju-cho.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Seokju Cho"
   avatar           : "profile.png"
-  bio              : "MS/PhD integrated student @ Korea University CVLAB"
+  bio              : "M.S./Ph.D. integrated student @ Korea University CVLAB"
   location         : "Seoul, Korea"
   employer         :
   pubmed           :
