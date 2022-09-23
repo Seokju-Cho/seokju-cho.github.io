@@ -28,6 +28,11 @@ Experience
 Publications
 ======
 
+> <i style='font-style: normal;'>MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation<br></i>
+>> <i style='font-style: normal;'>Junyoung Seo*, Gyuseong Lee*, **Seokju Cho**, Jiyoung Lee, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
+>> <a href="https://arxiv.org/abs/2209.11047">[arXiv]</a> 
+
 > <i style='font-style: normal;'>Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong*, **Seokju Cho**\*, Jisu Nam, Stephen Lin, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>European Conference on Computer Vision (**ECCV**), 2022.<br></i>
