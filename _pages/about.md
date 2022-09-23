@@ -29,7 +29,7 @@ Publications
 ======
 
 > <i style='font-style: normal;'>MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation<br></i>
->> <i style='font-style: normal;'>Junyoung Seo*, Gyuseong Lee*, **Seokju Cho**, Jiyoung Lee, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>Junyoung Seo\*, Gyuseong Lee\*, **Seokju Cho**, Jiyoung Lee, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2209.11047">[arXiv]</a> 
 
