@@ -33,6 +33,11 @@ Publications
 >> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/MIDMs/">[Project Page]</a> <a href="https://arxiv.org/abs/2209.11047">[arXiv]</a> 
 
+> <i style='font-style: normal;'>Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence<br></i>
+>> <i style='font-style: normal;'>Sunghwan Hong\*, **Seokju Cho**\*, Seungryong Kim, Stephen Lin<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2209.08742">[arXiv]</a> 
+
 > <i style='font-style: normal;'>Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong*, **Seokju Cho**\*, Jisu Nam, Stephen Lin, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>European Conference on Computer Vision (**ECCV**), 2022.<br></i>
