@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Research Interest
 ======
 **Visual Correspondence** and its applications. e.g., Semantic Correspondence, Few-shot Segmentation, 3D Reconstruction, Novel View Synthesis, etc. Specifically, I am interested in effective model architecture for transformers or designing efficient methods for correspondence. <br>
