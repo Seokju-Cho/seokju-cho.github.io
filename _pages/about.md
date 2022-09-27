@@ -32,7 +32,7 @@ Experience
 ======
 * Undergraduate Intern (Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea)
   * Jan. 2021 - Feb. 2022
-  * Advisor: Prof. <a href="https://seungryong.github.io">Seungryong Kim</a>
+  * Advisor: Prof. Seungryong Kim
 
 Publications
 ======
