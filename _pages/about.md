@@ -36,6 +36,15 @@ Experience
 Publications
 ======
 
+## International Journal
+
+> <i style='font-style: normal;'>**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**<br></i>
+>> <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), To be appeared (Impact Factor: 24.314).<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2202.06817">[arXiv]</a>
+
+## International Conference
+
 > <i style='font-style: normal;'>**Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence**<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong, Jisu Nam, **Seokju Cho**, Susung Hong,  Sangryul Jeon, Dongbo Min, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS**), 2022.<br></i>
@@ -56,11 +65,6 @@ Publications
 >> <i style='font-style: normal;'>European Conference on Computer Vision (**ECCV**), 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://seokju-cho.github.io/VAT/">[Project Page]</a> <a href="https://arxiv.org/abs/2207.10866">[arXiv]</a> 
 <!-- <a href="https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer">[Github]</a> -->
-
-> <i style='font-style: normal;'>**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**<br></i>
->> <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, and Seungryong Kim<br></i>
->> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
->> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2202.06817">[arXiv]</a>
 
 > <i style='font-style: normal;'>**AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning**<br></i>
 >> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, Gyuseong Lee, **Seokju Cho**, Junyoung Seo, Daehwan Kim, Hansang Cho, and Seungryong Kim (Under Review)<br></i>
