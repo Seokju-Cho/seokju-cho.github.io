@@ -40,7 +40,7 @@ Publications
 
 > <i style='font-style: normal;'>**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, and Seungryong Kim<br></i>
->> <i style='font-style: normal;'>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), To be appeared (Impact Factor: 24.314).<br></i>
+>> <i style='font-style: normal;'>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), <br> To be appeared (Impact Factor: 24.314).<br></i>
 >> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2202.06817">[arXiv]</a>
 
 ## International Conference
