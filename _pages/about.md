@@ -95,7 +95,7 @@ Teaching Experience
   * Teaching Assistant, Vision and Language Section
 * Korea Computer Vision Society, Feb. 2022
   * Teaching Assistant, Coding lecture for first year graduate students, in few-shot segmentation section
-
+<!-- 
 Skills
 ======
 * Deep Learning, Machine Learning
@@ -103,4 +103,4 @@ Skills
 * Programming Languages
   * Python, JavaScript, C/C++
 * Web Framework
-  * React, Node.js, Flask
+  * React, Node.js, Flask -->
