@@ -77,6 +77,11 @@ Publications
 >> <i style='font-style: normal;'><a href="https://sunghwanhong.github.io/CATs/">[Project Page]</a> <a href="https://arxiv.org/abs/2106.02520">[arXiv]</a> <a href="https://github.com/SunghwanHong/Cost-Aggregation-transformers">[Github]</a>
 </i>
 
+Academic Services
+======
+### Reviewer
+* Computer Vision and Pattern Recognition (**CVPR**), 2023
+
 Honors
 ======
 * Ministry of Science and ICT & National IT Industry Promotion Agency, Sep. 2021
