@@ -45,15 +45,15 @@ Publications
 
 ## International Conference
 
+> <i style='font-style: normal;'>**MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation**<br></i>
+>> <i style='font-style: normal;'>Junyoung Seo\*, Gyuseong Lee\*, **Seokju Cho**, Jiyoung Lee, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>AAAI Conference on Artificial Intelligence (AAAI), 2023.<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/MIDMs/">[Project Page]</a> <a href="https://arxiv.org/abs/2209.11047">[arXiv]</a> 
+
 > <i style='font-style: normal;'>**Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence**<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong, Jisu Nam, **Seokju Cho**, Susung Hong,  Sangryul Jeon, Dongbo Min, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS**), 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/NeMF/">[Project Page]</a> <a href="https://arxiv.org/abs/2210.02689">[arXiv]</a> 
-
-> <i style='font-style: normal;'>**MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation**<br></i>
->> <i style='font-style: normal;'>Junyoung Seo\*, Gyuseong Lee\*, **Seokju Cho**, Jiyoung Lee, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/MIDMs/">[Project Page]</a> <a href="https://arxiv.org/abs/2209.11047">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong\*, **Seokju Cho**\*, Seungryong Kim, Stephen Lin<br></i>
