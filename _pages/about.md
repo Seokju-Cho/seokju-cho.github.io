@@ -36,6 +36,18 @@ Experience
 Publications
 ======
 
+## Preprints
+
+> <i style='font-style: normal;'>**Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
+>> <i style='font-style: normal;'>Sunghwan Hong\*, **Seokju Cho**\*, Seungryong Kim, Stephen Lin<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2209.08742">[arXiv]</a> 
+
+> <i style='font-style: normal;'>**AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning**<br></i>
+>> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, Gyuseong Lee, **Seokju Cho**, Junyoung Seo, Daehwan Kim, Hansang Cho, and Seungryong Kim (Under Review)<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2021.<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2201.10444">[arXiv]</a>
+
 ## International Journal
 
 > <i style='font-style: normal;'>**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**<br></i>
@@ -55,21 +67,11 @@ Publications
 >> <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS**), 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/NeMF/">[Project Page]</a> <a href="https://arxiv.org/abs/2210.02689">[arXiv]</a> 
 
-> <i style='font-style: normal;'>**Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
->> <i style='font-style: normal;'>Sunghwan Hong\*, **Seokju Cho**\*, Seungryong Kim, Stephen Lin<br></i>
->> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
->> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2209.08742">[arXiv]</a> 
-
 > <i style='font-style: normal;'>**Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation**<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong*, **Seokju Cho**\*, Jisu Nam, Stephen Lin, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>European Conference on Computer Vision (**ECCV**), 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://seokju-cho.github.io/VAT/">[Project Page]</a> <a href="https://arxiv.org/abs/2207.10866">[arXiv]</a> 
 <!-- <a href="https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer">[Github]</a> -->
-
-> <i style='font-style: normal;'>**AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning**<br></i>
->> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, Gyuseong Lee, **Seokju Cho**, Junyoung Seo, Daehwan Kim, Hansang Cho, and Seungryong Kim (Under Review)<br></i>
->> <i style='font-style: normal;'>ArXiv Preprint, 2021.<br></i>
->> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2201.10444">[arXiv]</a>
 
 > <i style='font-style: normal;'>**CATs: Cost Aggregation Transformers for Visual Correspondence**</i>
 >> <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, and Seungryong Kim<br></i>
