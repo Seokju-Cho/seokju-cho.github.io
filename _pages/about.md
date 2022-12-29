@@ -40,7 +40,7 @@ Publications
 > <i style='font-style: normal;'>**DiffFace: Diffusion-based Face Swapping with Facial Guidance**<br></i>
 >> <i style='font-style: normal;'>Kihong Kim\*, Yunho Kim\*, **Seokju Cho**, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee<br></i>
 >> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
->> <i style='font-style: normal;'><a href="https://hxngiee.github.io/DiffFace/">[Project Page]</a><a href="https://arxiv.org/abs/2212.13344">[arXiv]</a> 
+>> <i style='font-style: normal;'><a href="https://hxngiee.github.io/DiffFace/">[Project Page]</a> <a href="https://arxiv.org/abs/2212.13344">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong\*, **Seokju Cho**\*, Seungryong Kim, Stephen Lin<br></i>
@@ -57,7 +57,7 @@ Publications
 > <i style='font-style: normal;'>**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**), <br> To be appeared (Impact Factor: 24.314).<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/CATs-PlusPlus-Project-Page/">[Project Page]</a><a href="https://arxiv.org/abs/2202.06817">[arXiv]</a>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/CATs-PlusPlus-Project-Page/">[Project Page]</a> <a href="https://arxiv.org/abs/2202.06817">[arXiv]</a>
 
 ## International Conference
 
