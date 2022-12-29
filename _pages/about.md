@@ -37,6 +37,10 @@ Publications
 ======
 
 ## Preprints
+> <i style='font-style: normal;'>**DiffFace: Diffusion-based Face Swapping with Facial Guidance**<br></i>
+>> <i style='font-style: normal;'>Kihong Kim\*, Yunho Kim\*, **Seokju Cho**, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
+>> <i style='font-style: normal;'><a href="https://hxngiee.github.io/DiffFace/">[Project Page]</a><a href="https://arxiv.org/abs/2212.13344">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong\*, **Seokju Cho**\*, Seungryong Kim, Stephen Lin<br></i>
