@@ -39,15 +39,15 @@ Publications
 ## International Journal
 
 > <i style='font-style: normal;'>**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**<br></i>
->> <i style='font-style: normal;'>Jihye Park*, Sunwoo Kim*, Soohyun Kim*, **Seokju Cho**, Jaejun Yoo, Youngjung Uh, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**), <br> To be appeared (Impact Factor: 24.314).<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/CATs-PlusPlus-Project-Page/">[Project Page]</a> <a href="https://arxiv.org/abs/2202.06817">[arXiv]</a>
 
 ## International Conference
 
 > <i style='font-style: normal;'>**LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**<br></i>
->> <i style='font-style: normal;'>Junyoung Seo\*, Gyuseong Lee\*, **Seokju Cho**, Jiyoung Lee, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>IEEE Conference on Computer Vision Pattern Recognition (**CVPR**), 2023.<br></i>
+>> <i style='font-style: normal;'>Jihye Park*, Sunwoo Kim*, Soohyun Kim*, **Seokju Cho**, Jaejun Yoo, Youngjung Uh, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2023.<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/LANIT/">[Project Page]</a> <a href="https://arxiv.org/abs/2208.14889">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation**<br></i>
