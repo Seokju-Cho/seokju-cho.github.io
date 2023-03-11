@@ -36,30 +36,19 @@ Experience
 Publications
 ======
 
-## Preprints
-> <i style='font-style: normal;'>**DiffFace: Diffusion-based Face Swapping with Facial Guidance**<br></i>
->> <i style='font-style: normal;'>Kihong Kim\*, Yunho Kim\*, **Seokju Cho**, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee<br></i>
->> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
->> <i style='font-style: normal;'><a href="https://hxngiee.github.io/DiffFace/">[Project Page]</a> <a href="https://arxiv.org/abs/2212.13344">[arXiv]</a> 
-
-> <i style='font-style: normal;'>**Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
->> <i style='font-style: normal;'>Sunghwan Hong\*, **Seokju Cho**\*, Seungryong Kim, Stephen Lin<br></i>
->> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
->> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2209.08742">[arXiv]</a> 
-
-> <i style='font-style: normal;'>**AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning**<br></i>
->> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, Gyuseong Lee, **Seokju Cho**, Junyoung Seo, Daehwan Kim, Hansang Cho, and Seungryong Kim (Under Review)<br></i>
->> <i style='font-style: normal;'>ArXiv Preprint, 2021.<br></i>
->> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2201.10444">[arXiv]</a>
-
 ## International Journal
 
 > <i style='font-style: normal;'>**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**<br></i>
->> <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>Jihye Park*, Sunwoo Kim*, Soohyun Kim*, **Seokju Cho**, Jaejun Yoo, Youngjung Uh, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**), <br> To be appeared (Impact Factor: 24.314).<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/CATs-PlusPlus-Project-Page/">[Project Page]</a> <a href="https://arxiv.org/abs/2202.06817">[arXiv]</a>
 
 ## International Conference
+
+> <i style='font-style: normal;'>**LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**<br></i>
+>> <i style='font-style: normal;'>Junyoung Seo\*, Gyuseong Lee\*, **Seokju Cho**, Jiyoung Lee, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>IEEE Conference on Computer Vision Pattern Recognition (**CVPR**), 2023.<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/LANIT/">[Project Page]</a> <a href="https://arxiv.org/abs/2208.14889">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation**<br></i>
 >> <i style='font-style: normal;'>Junyoung Seo\*, Gyuseong Lee\*, **Seokju Cho**, Jiyoung Lee, Seungryong Kim<br></i>
@@ -82,6 +71,23 @@ Publications
 >> <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS**), 2021.<br></i>
 >> <i style='font-style: normal;'><a href="https://sunghwanhong.github.io/CATs/">[Project Page]</a> <a href="https://arxiv.org/abs/2106.02520">[arXiv]</a> <a href="https://github.com/SunghwanHong/Cost-Aggregation-transformers">[Github]</a>
 </i>
+
+
+## Preprints
+> <i style='font-style: normal;'>**DiffFace: Diffusion-based Face Swapping with Facial Guidance**<br></i>
+>> <i style='font-style: normal;'>Kihong Kim\*, Yunho Kim\*, **Seokju Cho**, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
+>> <i style='font-style: normal;'><a href="https://hxngiee.github.io/DiffFace/">[Project Page]</a> <a href="https://arxiv.org/abs/2212.13344">[arXiv]</a> 
+
+> <i style='font-style: normal;'>**Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
+>> <i style='font-style: normal;'>Sunghwan Hong\*, **Seokju Cho**\*, Seungryong Kim, Stephen Lin<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2209.08742">[arXiv]</a> 
+
+> <i style='font-style: normal;'>**AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning**<br></i>
+>> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, Gyuseong Lee, **Seokju Cho**, Junyoung Seo, Daehwan Kim, Hansang Cho, and Seungryong Kim (Under Review)<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2021.<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2201.10444">[arXiv]</a>
 
 Academic Services
 ======
