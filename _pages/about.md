@@ -46,7 +46,7 @@ Publications
 ## International Conference
 
 > <i style='font-style: normal;'>**LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**<br></i>
->> <i style='font-style: normal;'>Jihye Park*, Sunwoo Kim*, Soohyun Kim*, **Seokju Cho**, Jaejun Yoo, Youngjung Uh, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>Jihye Park\*, Sunwoo Kim\*, Soohyun Kim\*, **Seokju Cho**, Jaejun Yoo, Youngjung Uh, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2023.<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/LANIT/">[Project Page]</a> <a href="https://arxiv.org/abs/2208.14889">[arXiv]</a> 
 
