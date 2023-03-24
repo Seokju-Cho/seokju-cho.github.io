@@ -74,6 +74,11 @@ Publications
 
 
 ## Preprints
+> <i style='font-style: normal;'>**CAT-Seg🐱: Cost Aggregation for Open-Vocabulary Semantic Segmentation**<br></i>
+>> <i style='font-style: normal;'>**Seokju Cho**\*, Heeseong Shin\*, Sunghwan Hong, Seungjun An, Seungjun Lee, Anurag Arnab, Paul Hongsuck Seo, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2023.<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/CAT-Seg/">[Project Page]</a> <a href="https://arxiv.org/abs/2303.11797">[arXiv]</a> 
+
 > <i style='font-style: normal;'>**DiffFace: Diffusion-based Face Swapping with Facial Guidance**<br></i>
 >> <i style='font-style: normal;'>Kihong Kim\*, Yunho Kim\*, **Seokju Cho**, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee<br></i>
 >> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
@@ -98,15 +103,6 @@ Honors
 ======
 * Ministry of Science and ICT & National IT Industry Promotion Agency, Sep. 2021
   * AI Online Competition, 3rd Place Award, Won 300M KRW
-
-Teaching Experience
-======
-* Samsung Electronics Computer Vision Advanced Course, Sep. 2021
-  * Teaching Assistant, Vision and Language Section
-* LG - Korea University AI Workshop, Feb. 2022
-  * Teaching Assistant, Vision and Language Section
-* Korea Computer Vision Society, Feb. 2022
-  * Teaching Assistant, Coding lecture for first year graduate students, in few-shot segmentation section
 
 Skills
 ======
