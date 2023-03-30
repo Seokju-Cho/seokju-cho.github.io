@@ -29,10 +29,12 @@ Education
 
 Experience
 ======
-* Research Scientist Intern (Adobe, San Jose, CA)
+* Adobe, San Jose, CA
+  * Research Intern
   * May. 2023 - Aug. 2023 (Expected)
 
-* Undergraduate Intern (Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea)
+* Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea
+  * Undergraduate Researcher
   * Jan. 2021 - Feb. 2022
   * Advisor: Prof. Seungryong Kim
 
