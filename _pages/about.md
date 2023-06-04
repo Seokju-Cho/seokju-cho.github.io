@@ -107,7 +107,7 @@ Publications
 Academic Services
 ======
 ### Reviewer
-* Computer Vision and Pattern Recognition (**CVPR**), 2023
+* 2023 - **CVPR**, **NeurIPS**
 
 Honors
 ======
