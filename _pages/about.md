@@ -31,7 +31,7 @@ Experience
 ======
 * Adobe, San Jose, CA
   * Research Intern
-  * May. 2023 - Aug. 2023 (Expected)
+  * June. 2023 - Sep. 2023
 
 * Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea
   * Undergraduate Researcher
@@ -79,6 +79,11 @@ Publications
 
 
 ## Preprints
+> <i style='font-style: normal;'>**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**<br></i>
+>> <i style='font-style: normal;'>Jiuhn Song\*, Seonghoon Park\*, Honggyu An\*, **Seokju Cho**, Min-Seop Kwak, Sungjin Cho, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2023.<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DaRF/">[Project Page]</a> <a href="https://arxiv.org/abs/2305.19201">[arXiv]</a> 
+
 > <i style='font-style: normal;'>**CAT-Seg🐱: Cost Aggregation for Open-Vocabulary Semantic Segmentation**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**\*, Heeseong Shin\*, Sunghwan Hong, Seungjun An, Seungjun Lee, Anurag Arnab, Paul Hongsuck Seo, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>ArXiv Preprint, 2023.<br></i>
