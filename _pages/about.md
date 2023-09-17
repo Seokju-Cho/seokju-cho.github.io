@@ -13,9 +13,6 @@ Research Interest
 **Generative Models**. e.g., Diffusion Models, Image-to-Image Translation, etc. <br>
 **Multimodal Learning**. e.g., Zero-shot Segmentation, Text-guided Image Manipulation, etc. <br>
 
-
-Also, I'm always trying to study various fields not stated above to facilitate interdisciplinary research.
-
 Education
 ======
 
@@ -32,6 +29,7 @@ Experience
 * Adobe, San Jose, CA
   * Research Intern
   * June. 2023 - Sep. 2023
+  * Mentor: <a href="https://joonyoung-cv.github.io">Joon-Young Lee</a>, <a href="https://gabriel-huang.github.io">Gabriel Huang</a>
 
 * Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea
   * Undergraduate Researcher
