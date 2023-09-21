@@ -48,6 +48,11 @@ Publications
 
 ## International Conference
 
+> <i style='font-style: normal;'>**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**<br></i>
+>> <i style='font-style: normal;'>Jiuhn Song\*, Seonghoon Park\*, Honggyu An\*, **Seokju Cho**, Min-Seop Kwak, Sungjin Cho, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS**), 2023.<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DaRF/">[Project Page]</a> <a href="https://arxiv.org/abs/2305.19201">[arXiv]</a> 
+
 > <i style='font-style: normal;'>**LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**<br></i>
 >> <i style='font-style: normal;'>Jihye Park\*, Sunwoo Kim\*, Soohyun Kim\*, **Seokju Cho**, Jaejun Yoo, Youngjung Uh, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2023.<br></i>
@@ -77,10 +82,6 @@ Publications
 
 
 ## Preprints
-> <i style='font-style: normal;'>**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**<br></i>
->> <i style='font-style: normal;'>Jiuhn Song\*, Seonghoon Park\*, Honggyu An\*, **Seokju Cho**, Min-Seop Kwak, Sungjin Cho, and Seungryong Kim<br></i>
->> <i style='font-style: normal;'>ArXiv Preprint, 2023.<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DaRF/">[Project Page]</a> <a href="https://arxiv.org/abs/2305.19201">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**CAT-Seg🐱: Cost Aggregation for Open-Vocabulary Semantic Segmentation**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**\*, Heeseong Shin\*, Sunghwan Hong, Seungjun An, Seungjun Lee, Anurag Arnab, Paul Hongsuck Seo, and Seungryong Kim<br></i>
