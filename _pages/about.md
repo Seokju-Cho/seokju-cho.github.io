@@ -31,11 +31,6 @@ Experience
   * June. 2023 - Sep. 2023
   * Mentor: <a href="https://joonyoung-cv.github.io">Joon-Young Lee</a>, <a href="https://gabriel-huang.github.io">Gabriel Huang</a>
 
-* Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea
-  * Undergraduate Researcher
-  * Jan. 2021 - Feb. 2022
-  * Advisor: Prof. Seungryong Kim
-
 Publications
 ======
 
