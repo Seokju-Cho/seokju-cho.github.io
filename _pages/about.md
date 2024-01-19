@@ -93,11 +93,6 @@ Publications
 >> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://hxngiee.github.io/DiffFace/">[Project Page]</a> <a href="https://arxiv.org/abs/2212.13344">[arXiv]</a> 
 
-> <i style='font-style: normal;'>**Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
->> <i style='font-style: normal;'>Sunghwan Hong\*, **Seokju Cho**\*, Seungryong Kim, Stephen Lin<br></i>
->> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
->> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2209.08742">[arXiv]</a> 
-
 > <i style='font-style: normal;'>**AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning**<br></i>
 >> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, Gyuseong Lee, **Seokju Cho**, Junyoung Seo, Daehwan Kim, Hansang Cho, and Seungryong Kim (Under Review)<br></i>
 >> <i style='font-style: normal;'>ArXiv Preprint, 2021.<br></i>
