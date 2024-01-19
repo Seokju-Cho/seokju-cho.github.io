@@ -45,7 +45,7 @@ Publications
 
 > <i style='font-style: normal;'>**Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong*, **Seokju Cho**\*, Seungryong Kim, and Stephen Lin<br></i>
->> <i style='font-style: normal;'>International Conference on Learning Representations (ICLR), 2024.<br></i>
+>> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**), 2024.<br></i>
 <!-- >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DaRF/">[Project Page]</a> <a href="https://arxiv.org/abs/2305.19201">[arXiv]</a>  -->
 
 > <i style='font-style: normal;'>**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**<br></i>
