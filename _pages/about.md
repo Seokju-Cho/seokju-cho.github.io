@@ -103,7 +103,7 @@ Honors
 ======
 * Ministry of Science and ICT & National IT Industry Promotion Agency, Sep. 2021
   * AI Online Competition, 3rd Place Award, Won 300M KRW
-
+<!-- 
 Skills
 ======
 * Deep Learning, Machine Learning
@@ -111,4 +111,4 @@ Skills
 * Programming Languages
   * Python, JavaScript, C/C++
 * Web Framework
-  * React, Node.js, Flask
+  * React, Node.js, Flask -->
