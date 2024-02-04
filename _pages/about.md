@@ -7,11 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Research Interest
-======
-**Visual Correspondence** and its applications. e.g., Semantic Correspondence, Few-shot Segmentation, 3D Reconstruction, Novel View Synthesis, etc. Specifically, I am interested in effective model architecture for transformers or designing efficient methods for correspondence. <br>
-**Generative Models**. e.g., Diffusion Models, Image-to-Image Translation, etc. <br>
-**Multimodal Learning**. e.g., Zero-shot Segmentation, Text-guided Image Manipulation, etc. <br>
 
 Education
 ======
