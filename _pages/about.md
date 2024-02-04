@@ -29,9 +29,6 @@ Experience
 Publications
 ======
 
-<!-- ## International Journal -->
-<!-- ## International Conference -->
-
 > <i style='font-style: normal;'>**Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong*, **Seokju Cho**\*, Seungryong Kim, and Stephen Lin<br></i>
 >> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**), 2024.<br></i>
@@ -102,12 +99,3 @@ Honors
 ======
 * Ministry of Science and ICT & National IT Industry Promotion Agency, Sep. 2021
   * AI Online Competition, 3rd Place Award, Won 300M KRW
-<!-- 
-Skills
-======
-* Deep Learning, Machine Learning
-  * Pytorch, Numpy
-* Programming Languages
-  * Python, JavaScript, C/C++
-* Web Framework
-  * React, Node.js, Flask -->
