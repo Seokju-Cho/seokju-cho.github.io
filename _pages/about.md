@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## Education
-
 * Korea University, Seoul, Korea
   * PhD Student in Computer Science and Engineering
   * Mar. 2022 - Present
