@@ -21,7 +21,7 @@ redirect_from:
 ## Experience
 * Adobe, San Jose, CA
   * Research Intern
-  * June. 2023 - Sep. 2023
+  * June 2023 - Sep. 2023
   * Mentor: <a href="https://joonyoung-cv.github.io">Joon-Young Lee</a>, <a href="https://gabriel-huang.github.io">Gabriel Huang</a>
 
 ## Publications
