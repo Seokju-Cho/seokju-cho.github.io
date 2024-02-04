@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Page of Seokju Cho"
+title                    : "Seokju Cho"
 title_separator          : "-"
 name                     : &name "Seokju Cho"
 description              : &description "PhD student @ Korea University CVLAB"
