@@ -96,6 +96,7 @@ Publications
 Academic Services
 ======
 ### Reviewer
+* 2024 - **CVPR**
 * 2023 - **CVPR**, **NeurIPS**
 
 Honors
