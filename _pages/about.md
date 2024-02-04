@@ -12,11 +12,11 @@ redirect_from:
 ======
 
 * Korea University, Seoul, Korea
-  * M.S./Ph.D. Integrated Student in Computer Science and Engineering
+  * PhD Student in Computer Science and Engineering
   * Mar. 2022 - Present
 
 * Yonsei University, Seoul, Korea
-  * B.S. in Computer Science
+  * BS in Computer Science
   * Mar. 2018 - Feb. 2022
 
 ## Experience
