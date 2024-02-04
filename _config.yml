@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seokju Cho"
+title                    : "Personal Page of Seokju Cho"
 title_separator          : "-"
 name                     : &name "Seokju Cho"
 description              : &description "M.S./Ph.D. integrated student @ Korea University CVLAB"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Seokju Cho"
   avatar           : "profile.png"
-  bio              : "M.S./Ph.D. integrated student @ Korea University CVLAB"
+  bio              : "PhD student @ Korea University CVLAB"
   location         : "Seoul, Korea"
   employer         :
   pubmed           :
