@@ -29,14 +29,8 @@ Experience
 Publications
 ======
 
-## International Journal
-
-> <i style='font-style: normal;'>**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**<br></i>
->> <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, and Seungryong Kim<br></i>
->> <i style='font-style: normal;'>IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**), <br> To be appeared (Impact Factor: 24.314).<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/CATs-PlusPlus-Project-Page/">[Project Page]</a> <a href="https://arxiv.org/abs/2202.06817">[arXiv]</a>
-
-## International Conference
+<!-- ## International Journal -->
+<!-- ## International Conference -->
 
 > <i style='font-style: normal;'>**Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong*, **Seokju Cho**\*, Seungryong Kim, and Stephen Lin<br></i>
@@ -57,6 +51,11 @@ Publications
 >> <i style='font-style: normal;'>Junyoung Seo\*, Gyuseong Lee\*, **Seokju Cho**, Jiyoung Lee, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>AAAI Conference on Artificial Intelligence (**AAAI**), 2023.<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/MIDMs/">[Project Page]</a> <a href="https://arxiv.org/abs/2209.11047">[arXiv]</a> 
+
+> <i style='font-style: normal;'>**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**<br></i>
+>> <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 (Impact Factor: 24.314).<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/CATs-PlusPlus-Project-Page/">[Project Page]</a> <a href="https://arxiv.org/abs/2202.06817">[arXiv]</a>
 
 > <i style='font-style: normal;'>**Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence**<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong, Jisu Nam, **Seokju Cho**, Susung Hong,  Sangryul Jeon, Dongbo Min, and Seungryong Kim<br></i>
