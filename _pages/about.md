@@ -18,13 +18,16 @@ Education
   * BS in Computer Science
   * Mar. 2018 - Feb. 2022
 
-## Experience
+Experience
+=====
+
 * Adobe, San Jose, CA
   * Research Intern
   * June 2023 - Sep. 2023
   * Mentor: <a href="https://joonyoung-cv.github.io">Joon-Young Lee</a>, <a href="https://gabriel-huang.github.io">Gabriel Huang</a>
 
-## Publications
+Publications
+=====
 
 > <i style='font-style: normal;'>**Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong*, **Seokju Cho**\*, Seungryong Kim, and Stephen Lin<br></i>
@@ -81,11 +84,15 @@ Education
 >> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://hxngiee.github.io/DiffFace/">[Project Page]</a> <a href="https://arxiv.org/abs/2212.13344">[arXiv]</a> 
 
-## Academic Services
+Academic Services
+=====
+
 ### Reviewer
 * 2024 - **CVPR**
 * 2023 - **CVPR**, **NeurIPS**
 
-## Honors
+Honors
+=====
+
 * Ministry of Science and ICT & National IT Industry Promotion Agency, Sep. 2021
   * AI Online Competition, 3rd Place Award, Won 300M KRW
