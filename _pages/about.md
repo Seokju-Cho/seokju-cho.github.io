@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 Education
+=====
 
 * Korea University, Seoul, Korea
   * PhD Student in Computer Science and Engineering
