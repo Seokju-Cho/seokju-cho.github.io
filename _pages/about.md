@@ -18,8 +18,13 @@ Education
   * BS in Computer Science
   * Mar. 2018 - Feb. 2022
 
-Experience
+Work Experience
 =====
+
+* Adobe, San Jose, CA
+  * Research Intern
+  * May 2024 - Aug. 2024 (Expected)
+  * Mentor: <a href="https://gabriel-huang.github.io">Gabriel Huang</a>, <a href="https://joonyoung-cv.github.io">Joon-Young Lee</a>
 
 * Adobe, San Jose, CA
   * Research Intern
@@ -28,6 +33,15 @@ Experience
 
 Publications
 =====
+
+> <i style='font-style: normal;'>**FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking**<br></i>
+>> <i style='font-style: normal;'>**Seokju Cho**, Jiahui Huang, Seungryong Kim, and Joon-Young Lee<br></i>
+>> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2024.<br></i>
+
+> <i style='font-style: normal;'>**CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation**<br></i>
+>> <i style='font-style: normal;'>**Seokju Cho**\*, Heeseong Shin\*, Sunghwan Hong, Anurag Arnab, Paul Hongsuck Seo, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2024.<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/CAT-Seg/">[Project Page]</a> <a href="https://arxiv.org/abs/2303.11797">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
 >> <i style='font-style: normal;'>Sunghwan Hong*, **Seokju Cho**\*, Seungryong Kim, and Stephen Lin<br></i>
@@ -73,11 +87,6 @@ Publications
 
 
 ### Preprints
-
-> <i style='font-style: normal;'>**CAT-Seg🐱: Cost Aggregation for Open-Vocabulary Semantic Segmentation**<br></i>
->> <i style='font-style: normal;'>**Seokju Cho**\*, Heeseong Shin\*, Sunghwan Hong, Seungjun An, Seungjun Lee, Anurag Arnab, Paul Hongsuck Seo, and Seungryong Kim<br></i>
->> <i style='font-style: normal;'>ArXiv Preprint, 2023.<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/CAT-Seg/">[Project Page]</a> <a href="https://arxiv.org/abs/2303.11797">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**DiffFace: Diffusion-based Face Swapping with Facial Guidance**<br></i>
 >> <i style='font-style: normal;'>Kihong Kim\*, Yunho Kim\*, **Seokju Cho**, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee<br></i>
