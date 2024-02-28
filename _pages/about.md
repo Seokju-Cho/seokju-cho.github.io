@@ -65,7 +65,7 @@ Publications
 
 > <i style='font-style: normal;'>**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, and Seungryong Kim<br></i>
->> <i style='font-style: normal;'>IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022 (Impact Factor: 24.314).<br></i>
+>> <i style='font-style: normal;'>IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023 (Impact Factor: 24.314).<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/CATs-PlusPlus-Project-Page/">[Project Page]</a> <a href="https://arxiv.org/abs/2202.06817">[arXiv]</a>
 
 > <i style='font-style: normal;'>**Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence**<br></i>
