@@ -40,7 +40,7 @@ Publications
 
 > <i style='font-style: normal;'>**CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**\*, Heeseong Shin\*, Sunghwan Hong, Anurag Arnab, Paul Hongsuck Seo, and Seungryong Kim<br></i>
->> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2024.<br></i>
+>> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), **Highlight** (2.8% Acceptance Rate), 2024.<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/CAT-Seg/">[Project Page]</a> <a href="https://arxiv.org/abs/2303.11797">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
