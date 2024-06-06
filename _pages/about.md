@@ -103,5 +103,8 @@ Academic Services
 Honors
 =====
 
+* Google, June, 2024
+  * Google East Asia Student Travel Grants for CVPR
+
 * Ministry of Science and ICT & National IT Industry Promotion Agency, Sep. 2021
   * AI Online Competition, 3rd Place Award, Won 300M KRW
