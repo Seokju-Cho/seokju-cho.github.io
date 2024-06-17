@@ -23,7 +23,7 @@ Work Experience
 
 * Adobe, San Jose, CA
   * Research Intern
-  * May 2024 - Aug. 2024 (Expected)
+  * June 2024 - Sep. 2024
   * Mentor: <a href="https://gabriel-huang.github.io">Gabriel Huang</a>, <a href="https://joonyoung-cv.github.io">Joon-Young Lee</a>
 
 * Adobe, San Jose, CA
