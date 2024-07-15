@@ -33,10 +33,14 @@ Work Experience
 
 Publications
 =====
+> <i style='font-style: normal;'>**Local All-Pair Correspondence for Point Tracking**<br></i>
+>> <i style='font-style: normal;'>**Seokju Cho**, Jiahui Huang, Jisu Nam, Honggyu An, Seungryong Kim, and Joon-Young Lee<br></i>
+>> <i style='font-style: normal;'>European Conference on Computer Vision (**ECCV**), 2024.<br></i>
 
 > <i style='font-style: normal;'>**FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**, Jiahui Huang, Seungryong Kim, and Joon-Young Lee<br></i>
 >> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2024.<br></i>
+>> <i style='font-style: normal;'><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_FlowTrack_Revisiting_Optical_Flow_for_Long-Range_Dense_Tracking_CVPR_2024_paper.pdf">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**\*, Heeseong Shin\*, Sunghwan Hong, Anurag Arnab, Paul Hongsuck Seo, and Seungryong Kim<br></i>
@@ -87,6 +91,11 @@ Publications
 
 
 ### Preprints
+
+> <i style='font-style: normal;'>**Pose-Diversified Augmentation with Diffusion Model for Person Re-Identification**<br></i>
+>> <i style='font-style: normal;'>Inès Hyeonsu Kim, JoungBin Lee, Soowon Son, Woojeong Jin, Kyusun Cho, Junyoung Seo, Min-Seop Kwak, **Seokju Cho**, JeongYeol Baek, Byeongwon Lee, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2024.<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/pdf/2406.16042">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**DiffFace: Diffusion-based Face Swapping with Facial Guidance**<br></i>
 >> <i style='font-style: normal;'>Kihong Kim\*, Yunho Kim\*, **Seokju Cho**, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee<br></i>
