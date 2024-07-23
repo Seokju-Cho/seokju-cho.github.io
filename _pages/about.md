@@ -36,6 +36,7 @@ Publications
 > <i style='font-style: normal;'>**Local All-Pair Correspondence for Point Tracking**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**, Jiahui Huang, Jisu Nam, Honggyu An, Seungryong Kim, and Joon-Young Lee<br></i>
 >> <i style='font-style: normal;'>European Conference on Computer Vision (**ECCV**), 2024.<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/locotrack/">[Project Page]</a> <a href="https://arxiv.org/abs/2407.15420">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**, Jiahui Huang, Seungryong Kim, and Joon-Young Lee<br></i>
