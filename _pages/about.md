@@ -9,10 +9,13 @@ redirect_from:
 ---
 Education
 =====
+* Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea
+  * MS/PhD Integrated Student in Artificial Intelligence
+  * Sep. 2024 - Present
 
 * Korea University, Seoul, Korea
-  * PhD Student in Computer Science and Engineering
-  * Mar. 2022 - Present
+  * MS/PhD Integrated Student in Computer Science and Engineering
+  * Mar. 2022 - Aug. 2024 (Transferred to KAIST with supervisor)
 
 * Yonsei University, Seoul, Korea
   * BS in Computer Science
