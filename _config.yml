@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Seokju Cho"
 title_separator          : "-"
 name                     : &name "Seokju Cho"
-description              : &description "PhD student @ Korea University CVLAB"
+description              : &description "PhD student @ KAIST CVLAB"
 url                      : https://seokju-cho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "seokju-cho/seokju-cho.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Seokju Cho"
   avatar           : "profile.png"
-  bio              : "PhD student @\nKorea Univ."
+  bio              : "PhD student @ KAIST AI"
   location         : "Seoul, Korea"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=mvPfpnMAAAAJ&hl=en&oi=sra"
-  email            : "seokju_cho@korea.ac.kr"
+  email            : "seokju.cho@kaist.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

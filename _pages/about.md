@@ -9,10 +9,13 @@ redirect_from:
 ---
 Education
 =====
+* Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea
+  * MS/PhD Integrated Student in Artificial Intelligence
+  * Sep. 2024 - Present
 
 * Korea University, Seoul, Korea
-  * PhD Student in Computer Science and Engineering
-  * Mar. 2022 - Present
+  * MS/PhD Integrated Student in Computer Science and Engineering
+  * Mar. 2022 - Aug. 2024 (Transferred to KAIST with supervisor)
 
 * Yonsei University, Seoul, Korea
   * BS in Computer Science
@@ -40,7 +43,7 @@ Publications
 > <i style='font-style: normal;'>**Local All-Pair Correspondence for Point Tracking**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**, Jiahui Huang, Jisu Nam, Honggyu An, Seungryong Kim, and Joon-Young Lee<br></i>
 >> <i style='font-style: normal;'>European Conference on Computer Vision (**ECCV**), 2024.<br></i>
->> <i style='font-style: normal;'><a href="https://github.com/KU-CVLAB/locotrack">[Project Page]</a> <a href="https://arxiv.org/pdf/2407.15420">[arXiv]</a> 
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/locotrack/">[Project Page]</a> <a href="https://arxiv.org/abs/2407.15420">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**, Jiahui Huang, Seungryong Kim, and Joon-Young Lee<br></i>
