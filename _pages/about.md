@@ -33,9 +33,14 @@ Work Experience
 
 Publications
 =====
+> <i style='font-style: normal;'>**Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels**<br></i>
+>> <i style='font-style: normal;'>Heeseong Shin, Chaehyun Kim, Sunghwan Hong, **Seokju Cho**, Anurag Arnab, Paul Hongsuck Seo, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS**), 2024. <br></i>
+
 > <i style='font-style: normal;'>**Local All-Pair Correspondence for Point Tracking**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**, Jiahui Huang, Jisu Nam, Honggyu An, Seungryong Kim, and Joon-Young Lee<br></i>
 >> <i style='font-style: normal;'>European Conference on Computer Vision (**ECCV**), 2024.<br></i>
+>> <i style='font-style: normal;'><a href="https://github.com/KU-CVLAB/locotrack">[Project Page]</a> <a href="https://arxiv.org/pdf/2407.15420">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**, Jiahui Huang, Seungryong Kim, and Joon-Young Lee<br></i>
