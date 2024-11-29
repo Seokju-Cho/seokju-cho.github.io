@@ -9,7 +9,7 @@ redirect_from:
 ---
 Introduction
 =====
-I am a first-year PhD student at KAIST, advised by Prof. <a href=https://cvlab.kaist.ac.kr/members/faculty>Seungryong Kim</a>. My main research interest is general perception in video, especially Track Any Point (or point tracking), and its application to the 3D/4D video understanding and reconstruction. I am closely working with <a href=https://joonyoung-cv.github.io>Joon-Young Lee</a> and <a href=https://gabriel-huang.github.io>Gabriel Huang</a> at Adobe through a couple of internships, and before that, I collaborated with Google Research and Microsoft Research Asia (MSRA).
+I am a PhD student at KAIST, advised by Prof. <a href=https://cvlab.kaist.ac.kr/members/faculty>Seungryong Kim</a>. My main research interest is general perception in video, especially Track Any Point (or point tracking), and its application to the 3D/4D video understanding and reconstruction. I am closely working with <a href=https://joonyoung-cv.github.io>Joon-Young Lee</a> and <a href=https://gabriel-huang.github.io>Gabriel Huang</a> at Adobe through a couple of internships, and before that, I collaborated with Google Research and Microsoft Research Asia (MSRA).
 
 Before joining KAIST, I was a PhD student at Korea University and transferred to KAIST with my advisor. Prior to that, I received a B.S. degree from Yonsei University.
 
