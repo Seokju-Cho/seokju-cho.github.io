@@ -37,7 +37,7 @@ Work Experience
 
 * Adobe, San Jose, CA
   * Research Intern, June 2023 - Sep. 2023
-  * Conducted research on long-range dense tracking, leading to the publication of 'Revisiting Optical Flow for Long-Range Dense Tracking’' at CVPR 2024.
+  * Conducted research on long-range dense tracking, leading to the publication of 'Revisiting Optical Flow for Long-Range Dense Tracking' at CVPR 2024.
   * Mentor: <a href="https://joonyoung-cv.github.io">Joon-Young Lee</a>, <a href="https://gabriel-huang.github.io">Gabriel Huang</a>
 
 Publications
