@@ -31,13 +31,13 @@ Work Experience
 =====
 
 * Adobe, San Jose, CA
-  * Research Intern
-  * June 2024 - Sep. 2024
+  * Research Intern, June 2024 - Sep. 2024
+  * Worked on 3D point tracking, aiming to understand 3D structure from 2D trajectory; submitted to CVPR 2025.
   * Mentor: <a href="https://gabriel-huang.github.io">Gabriel Huang</a>, <a href="https://joonyoung-cv.github.io">Joon-Young Lee</a>
 
 * Adobe, San Jose, CA
-  * Research Intern
-  * June 2023 - Sep. 2023
+  * Research Intern, June 2023 - Sep. 2023
+  * Conducted research on long-range dense tracking, leading to the publication of 'Revisiting Optical Flow for Long-Range Dense Tracking’' at CVPR 2024.
   * Mentor: <a href="https://joonyoung-cv.github.io">Joon-Young Lee</a>, <a href="https://gabriel-huang.github.io">Gabriel Huang</a>
 
 Publications
