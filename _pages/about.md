@@ -30,7 +30,7 @@ Education
 Work Experience
 =====
 
-* Nvidia, Santa Clara, CA
+* NVIDIA, Santa Clara, CA
   * Incoming Research Intern
 
 * Adobe, San Jose, CA
