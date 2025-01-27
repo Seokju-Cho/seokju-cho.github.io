@@ -30,6 +30,9 @@ Education
 Work Experience
 =====
 
+* Nvidia, Santa Clara, CA
+  * Incoming Research Intern
+
 * Adobe, San Jose, CA
   * Research Intern, June 2024 - Sep. 2024
   * Worked on 3D point tracking, aiming to understand 3D structure from 2D trajectory; submitted to CVPR 2025.
@@ -42,9 +45,15 @@ Work Experience
 
 Publications
 =====
+> <i style='font-style: normal;'>**Multi-Granularity Video Object Segmentation**<br></i>
+>> <i style='font-style: normal;'>Sangbeom Lim\*, Seongchan Kim\*, Seungjun An\*, **Seokju Cho**, Paul Hongsuck Seo, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>AAAI Conference on Artificial Intelligence (AAAI), 2025. <br></i>
+>> <i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/MUG-VOS/">[Project Page]</a> <a href="https://arxiv.org/pdf/2412.01471">[arXiv]</a> 
+
 > <i style='font-style: normal;'>**Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels**<br></i>
 >> <i style='font-style: normal;'>Heeseong Shin, Chaehyun Kim, Sunghwan Hong, **Seokju Cho**, Anurag Arnab, Paul Hongsuck Seo, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS**), 2024. <br></i>
+>> <i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/PixelCLIP/">[Project Page]</a> <a href="https://arxiv.org/pdf/2409.19846">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**Local All-Pair Correspondence for Point Tracking**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**, Jiahui Huang, Jisu Nam, Honggyu An, Seungryong Kim, and Joon-Young Lee<br></i>
@@ -105,6 +114,11 @@ Publications
 
 
 ### Preprints
+
+> <i style='font-style: normal;'>**Exploring Temporally-Aware Features for Point Tracking**<br></i>
+>> <i style='font-style: normal;'>Inès Hyeonsu Kim\*, **Seokju Cho**\*, Jiahui Huang, Jung Yi, Joon-Young Lee, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>ArXiv Preprint, 2025.<br></i>
+>> <i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/Chrono/">[Project Page]</a> <a href="https://arxiv.org/abs/2501.12218">[arXiv]</a> 
 
 > <i style='font-style: normal;'>**Pose-Diversified Augmentation with Diffusion Model for Person Re-Identification**<br></i>
 >> <i style='font-style: normal;'>Inès Hyeonsu Kim, JoungBin Lee, Soowon Son, Woojeong Jin, Kyusun Cho, Junyoung Seo, Min-Seop Kwak, **Seokju Cho**, JeongYeol Baek, Byeongwon Lee, Seungryong Kim<br></i>
