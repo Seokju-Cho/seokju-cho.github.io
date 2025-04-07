@@ -47,7 +47,7 @@ Publications
 =====
 > <i style='font-style: normal;'>**Seurat: From Moving Points to Depth**<br></i>
 >> <i style='font-style: normal;'>**Seokju Cho**, Jiahui Huang, Seungryong Kim, Joon-Young Lee<br></i>
->> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2025.<br></i>
+>> <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), **Highlight** (3.0% Acceptance Rate), 2025.<br></i>
 
 > <i style='font-style: normal;'>**Exploring Temporally-Aware Features for Point Tracking**<br></i>
 >> <i style='font-style: normal;'>Inès Hyeonsu Kim\*, **Seokju Cho**\*, Jiahui Huang, Jung Yi, Joon-Young Lee, Seungryong Kim<br></i>
