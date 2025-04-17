@@ -33,8 +33,8 @@ Publications
 =====
 <i style='font-style: normal;'>**Seurat: From Moving Points to Depth**<br></i>
 <i style='font-style: normal;'>**Seokju Cho**, Jiahui Huang, Seungryong Kim, Joon-Young Lee<br></i>
-<i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), <br>
-**Highlight** (3.0% Acceptance Rate), 2025.<br></i>
+<i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2025. <br>
+**Highlight** (3.0% Acceptance Rate)<br></i>
 
 <i style='font-style: normal;'>**Exploring Temporally-Aware Features for Point Tracking**<br></i>
 <i style='font-style: normal;'>Inès Hyeonsu Kim\*, **Seokju Cho**\*, Jiahui Huang, Jung Yi, Joon-Young Lee, Seungryong Kim<br></i>
@@ -69,8 +69,8 @@ Publications
 
 <i style='font-style: normal;'>**CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation**<br></i>
 <i style='font-style: normal;'>**Seokju Cho**\*, Heeseong Shin\*, Sunghwan Hong, Anurag Arnab, Paul Hongsuck Seo, and Seungryong Kim<br></i>
-<i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**),<br>
-**Highlight** (2.8% Acceptance Rate), 2024.<br></i>
+<i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2024.<br>
+**Highlight** (2.8% Acceptance Rate)<br></i>
 <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/CAT-Seg/">[Project Page]</a> <a href="https://arxiv.org/abs/2303.11797">[arXiv]</a> 
 
 <i style='font-style: normal;'>**Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence**<br></i>
