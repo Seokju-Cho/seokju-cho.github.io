@@ -109,7 +109,7 @@ Publications
 <i style='font-style: normal;'><a href="https://seokju-cho.github.io/VAT/">[Project Page]</a> <a href="https://arxiv.org/abs/2207.10866">[arXiv]</a> 
 <!-- <a href="https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer">[Github]</a> -->
 
-<i style='font-style: normal;'>**CATs: Cost Aggregation Transformers for Visual Correspondence**</i>
+<i style='font-style: normal;'>**CATs: Cost Aggregation Transformers for Visual Correspondence**<br></i>
 <i style='font-style: normal;'>**Seokju Cho**\*, Sunghwan Hong*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, and Seungryong Kim<br></i>
 <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS**), 2021.<br></i>
 <i style='font-style: normal;'><a href="https://sunghwanhong.github.io/CATs/">[Project Page]</a> <a href="https://arxiv.org/abs/2106.02520">[arXiv]</a> <a href="https://github.com/SunghwanHong/Cost-Aggregation-transformers">[Github]</a>
