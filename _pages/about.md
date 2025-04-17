@@ -137,6 +137,8 @@ Publications
 
 Academic Services
 =====
+### Area Chair
+* 2025 - **NeurIPS**
 
 ### Reviewer
 * 2024 - **CVPR**
