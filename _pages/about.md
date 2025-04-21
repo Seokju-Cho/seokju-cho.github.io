@@ -35,6 +35,7 @@ Publications
 <i style='font-style: normal;'>**Seokju Cho**, Jiahui Huang, Seungryong Kim, Joon-Young Lee<br></i>
 <i style='font-style: normal;'>IEEE Conference Computer Vision Pattern Recognition (**CVPR**), 2025. <br>
 **Highlight** (3.0% Acceptance Rate)<br></i>
+<i style='font-style: normal;'><a href="https://seurat-cvpr.github.io">[Project Page]</a> <a href="https://seurat-cvpr.github.io/paper.pdf">[arXiv]</a> 
 
 <i style='font-style: normal;'>**Exploring Temporally-Aware Features for Point Tracking**<br></i>
 <i style='font-style: normal;'>Inès Hyeonsu Kim\*, **Seokju Cho**\*, Jiahui Huang, Jung Yi, Joon-Young Lee, Seungryong Kim<br></i>
