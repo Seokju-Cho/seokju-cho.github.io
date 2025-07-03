@@ -17,7 +17,7 @@ Work Experience
 =====
 
 * NVIDIA, Santa Clara, CA
-  * Incoming Research Intern
+  * Research Intern, June 2025 - Aug. 2025
 
 * Adobe, San Jose, CA
   * Research Intern, June 2024 - Sep. 2024
