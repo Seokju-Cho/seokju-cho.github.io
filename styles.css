@@ -408,7 +408,13 @@ footer p {
   .portrait { width: 100px; }
   .sidebar h1 { font-size: 1.85rem; }
   .tagline { font-size: 0.9rem; }
-  .contact-links { column-gap: 0.85rem; }
+  .contact-links,
+  .side-nav {
+    display: grid;
+    grid-template-columns: repeat(3, max-content);
+    column-gap: 0.9rem;
+  }
+  .bio { padding-top: 1.2rem; }
 
   .selected-key {
     display: flex;
