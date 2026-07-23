@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seokju Cho</title>
+  <meta name="description" content="Seokju Cho — Ph.D. student at KAIST AI and research intern at NVIDIA. Research on spatial and 4D understanding for vision-language models, and point tracking.">
+  <meta property="og:title" content="Seokju Cho">
+  <meta property="og:description" content="Ph.D. student at KAIST AI · Research Intern at NVIDIA. Spatial and 4D understanding for vision-language models, and point tracking.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://seokju-cho.github.io/">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RW1EWE909G"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-RW1EWE909G');
+  </script>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&family=STIX+Two+Text:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="layout" id="top">
+
+  <!-- ======================= Sidebar ======================= -->
+  <aside class="sidebar">
+    <img class="portrait" src="assets/photo.jpg"
+         onerror="this.onerror=null;this.src='assets/photo-placeholder.svg';"
+         alt="Portrait of Seokju Cho" width="640" height="640">
+    <h1>Seokju Cho</h1>
+    <p class="tagline">Ph.D. Student at KAIST AI<br>Research Intern at <a href="https://research.nvidia.com" class="quiet">NVIDIA</a></p>
+    <ul class="contact-links">
+      <li><a href="mailto:seokju.cho@kaist.ac.kr">Email</a></li>
+      <li><a href="Seokju_Cho_CV.pdf">CV</a></li>
+      <li><a href="https://scholar.google.com/citations?user=mvPfpnMAAAAJ">Google Scholar</a></li>
+      <li><a href="https://www.linkedin.com/in/seokju-cho-43601b174/">LinkedIn</a></li>
+      <li><a href="https://cal.com/hamacojr">Coffee Chat</a></li>
+    </ul>
+    <nav class="side-nav" aria-label="Sections">
+      <a href="#news">News</a>
+      <a href="#publications">Publications</a>
+      <a href="#experience">Experience</a>
+      <a href="#education">Education</a>
+      <a href="#awards">Awards</a>
+    </nav>
+  </aside>
+
+  <main>
+
+  <section class="bio" id="about">
+    <p>
+      I am a Ph.D. student at KAIST AI and a research intern at NVIDIA. My research focuses on
+      <em>spatial and 4D understanding for vision&ndash;language models</em> &mdash; equipping them with
+      fine-grained motion perception (<a href="https://research.nvidia.com/labs/lpr/4dpqa/">4DP-QA</a>)
+      and agentic spatial reasoning (<a href="https://spatialclaw.github.io/">SpatialClaw</a>).
+      This direction builds on my work on Track&nbsp;Any&nbsp;Point (point tracking) and its
+      applications to 3D and 4D video understanding and reconstruction.
+    </p>
+    <p>
+      I have had the opportunity to intern at NVIDIA and Adobe, where I was honored to work with
+      inspiring mentors, including <a href="https://oraziogallo.github.io">Orazio Gallo</a>,
+      <a href="https://scholar.google.fr/citations?user=aBULkNwAAAAJ&amp;hl=en">Abhishek Badki</a>,
+      <a href="https://research.nvidia.com/person/hang-su">Hang Su</a>, and
+      <a href="https://www.jindongjiang.me">Jindong Jiang</a> at NVIDIA, as well as
+      <a href="https://joonyoung-cv.github.io">Joon-Young Lee</a> and
+      <a href="https://gabriel-huang.github.io">Gabriel Huang</a> at Adobe.
+      I am currently working with <a href="https://ryohachiuma.github.io/">Ryo Hachiuma</a> and
+      <a href="https://minhungchen.netlify.app/">Min-Hung Chen</a> at NVIDIA Research in Taiwan.
+    </p>
+  </section>
+
+  <!-- ======================= News ======================= -->
+  <section id="news">
+    <h2>News</h2>
+    <ul class="news-list">
+      <li><span class="date">Jun 2026</span><span>Serving as an Area Chair for the NeurIPS 2026 Evaluations and Datasets Track.</span></li>
+      <li><span class="date">Jun 2026</span><span>Selected as an Outstanding Reviewer for CVPR 2026.</span></li>
+      <li><span class="date">Jun 2026</span><span>4 papers accepted to <strong>CVPR 2026</strong>.</span></li>
+      <li><span class="date">Jan 2026</span><span>Started a research internship at NVIDIA Research in Taipei, Taiwan.</span></li>
+      <li><span class="date">Nov 2025</span><span>Selected as a finalist for the Qualcomm Innovation Fellowship 2025.</span></li>
+    </ul>
+  </section>
+
+  <!-- ======================= Publications ======================= -->
+  <section id="publications">
+    <h2>Publications</h2>
+    <p class="section-note">
+      * denotes equal contribution.
+      <span class="selected-key"><span class="selected-dot" aria-hidden="true"></span> Selected work</span>
+    </p>
+    <h3 class="year">2026</h3>
+
+    <article class="pub">
+      <p class="pub-title"><span class="selected-dot" role="img" aria-label="Selected publication"></span><a href="https://spatialclaw.github.io/">SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning</a></p>
+      <p class="pub-authors"><span class="me">Seokju Cho</span>, Ryo Hachiuma, Abhishek Badki, Hang Su, Byung-Kwan Lee, Chan Hee Song, Sifei Liu, Subhashree Radhakrishnan, Seungryong Kim, Yu-Chiang Frank Wang, Min-Hung Chen</p>
+      <p class="pub-venue"><span class="venue">Preprint</span>, 2026</p>
+      <p class="pub-note">Work done during my internship at NVIDIA.</p>
+      <p class="pub-links"><a href="https://spatialclaw.github.io/">Project Page</a> <a href="https://arxiv.org/abs/2606.13673">arXiv</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><span class="selected-dot" role="img" aria-label="Selected publication"></span><a href="https://research.nvidia.com/labs/lpr/4dpqa/">4DP-QA: Scalable QA for 4D Perception in Vision Language Models</a></p>
+      <p class="pub-authors"><span class="me">Seokju Cho</span>, Abhishek Badki, Hang Su, Jindong Jiang, Ziyao Zeng, Seungryong Kim, Sifei Liu, Orazio Gallo</p>
+      <p class="pub-venue"><span class="venue">CVPR</span>, 2026</p>
+      <p class="pub-note">Work done during my internship at NVIDIA.</p>
+      <p class="pub-links"><a href="https://research.nvidia.com/labs/lpr/4dpqa/">Project Page</a> <a href="https://arxiv.org/abs/2606.11568">arXiv</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://cvlab-kaist.github.io/MV-TAP/">MV-TAP: Tracking Any Point in Multi-View Videos</a></p>
+      <p class="pub-authors">Jahyeok Koo, Inès Hyeonsu Kim, Mungyeom Kim, Junghyun Park, Seohyeon Park, Jaeyeong Kim, Jung Yi, <span class="me">Seokju Cho</span>, Seungryong Kim</p>
+      <p class="pub-venue"><span class="venue">CVPR</span>, 2026</p>
+      <p class="pub-links"><a href="https://cvlab-kaist.github.io/MV-TAP/">Project Page</a> <a href="https://arxiv.org/abs/2512.02006">arXiv</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://cvlab-kaist.github.io/AnthroTAP/">AnthroTAP: Learning Point Tracking with Real-World Motion</a></p>
+      <p class="pub-authors">Inès Hyeonsu Kim*, <span class="me">Seokju Cho*</span>, Jahyeok Koo, Junghyun Park, Jiahui Huang, Honglak Lee, Joon-Young Lee, Seungryong Kim</p>
+      <p class="pub-venue"><span class="venue">CVPR</span>, 2026</p>
+      <p class="pub-links"><a href="https://cvlab-kaist.github.io/AnthroTAP/">Project Page</a> <a href="https://arxiv.org/abs/2507.06233">arXiv</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://cvlab-kaist.github.io/Pose-dIVE/">Pose-dIVE: Pose-Diversified Augmentation for Person Re-Identification</a></p>
+      <p class="pub-authors">Inès Hyeonsu Kim, Woojeong Jin, Soowon Son, Junyoung Seo, <span class="me">Seokju Cho</span>, JeongYeol Baek, Byeongwon Lee, JoungBin Lee, Seungryong Kim</p>
+      <p class="pub-venue"><span class="venue">CVPR Findings</span>, 2026</p>
+      <p class="pub-links"><a href="https://cvlab-kaist.github.io/Pose-dIVE/">Project Page</a> <a href="https://arxiv.org/abs/2406.16042">arXiv</a></p>
+    </article>
+
+    <h3 class="year">2025</h3>
+
+    <article class="pub">
+      <p class="pub-title"><span class="selected-dot" role="img" aria-label="Selected publication"></span><a href="https://seurat-cvpr.github.io">Seurat: From Moving Points to Depth</a></p>
+      <p class="pub-authors"><span class="me">Seokju Cho</span>, Jiahui Huang, Seungryong Kim, Joon-Young Lee</p>
+      <p class="pub-venue"><span class="venue">CVPR</span>, 2025 &middot; <span class="award">Highlight</span> <span class="detail">(3.0% acceptance rate)</span></p>
+      <p class="pub-note">Work done during my internship at Adobe. Selected as a Qualcomm Innovation Fellowship 2025 finalist.</p>
+      <p class="pub-links"><a href="https://seurat-cvpr.github.io">Project Page</a> <a href="https://arxiv.org/abs/2504.14687">arXiv</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://cvlab-kaist.github.io/Chrono/">Exploring Temporally-Aware Features for Point Tracking</a></p>
+      <p class="pub-authors">Inès Hyeonsu Kim*, <span class="me">Seokju Cho*</span>, Jiahui Huang, Jung Yi, Joon-Young Lee, Seungryong Kim</p>
+      <p class="pub-venue"><span class="venue">CVPR</span>, 2025</p>
+      <p class="pub-links"><a href="https://cvlab-kaist.github.io/Chrono/">Project Page</a> <a href="https://arxiv.org/abs/2501.12218">arXiv</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://hxngiee.github.io/DiffFace/">DiffFace: Diffusion-based Face Swapping with Facial Guidance</a></p>
+      <p class="pub-authors">Kihong Kim*, Yunho Kim*, <span class="me">Seokju Cho</span>, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee</p>
+      <p class="pub-venue"><span class="venue">Pattern Recognition</span>, 2025</p>
+      <p class="pub-links"><a href="https://hxngiee.github.io/DiffFace/">Project Page</a> <a href="https://arxiv.org/abs/2212.13344">arXiv</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://cvlab-kaist.github.io/MUG-VOS/">Multi-Granularity Video Object Segmentation</a></p>
+      <p class="pub-authors">Sangbeom Lim*, Seongchan Kim*, Seungjun An*, <span class="me">Seokju Cho</span>, Paul Hongsuck Seo, Seungryong Kim</p>
+      <p class="pub-venue"><span class="venue">AAAI</span>, 2025</p>
+      <p class="pub-links"><a href="https://cvlab-kaist.github.io/MUG-VOS/">Project Page</a> <a href="https://arxiv.org/abs/2412.01471">arXiv</a></p>
+    </article>
+
+    <h3 class="year">2024</h3>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://cvlab-kaist.github.io/PixelCLIP/">Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels</a></p>
+      <p class="pub-authors">Heeseong Shin, Chaehyun Kim, Sunghwan Hong, <span class="me">Seokju Cho</span>, Anurag Arnab, Paul Hongsuck Seo, Seungryong Kim</p>
+      <p class="pub-venue"><span class="venue">NeurIPS</span>, 2024</p>
+      <p class="pub-links"><a href="https://cvlab-kaist.github.io/PixelCLIP/">Project Page</a> <a href="https://arxiv.org/abs/2409.19846">arXiv</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><span class="selected-dot" role="img" aria-label="Selected publication"></span><a href="https://cvlab-kaist.github.io/locotrack/">Local All-Pair Correspondence for Point Tracking</a></p>
+      <p class="pub-authors"><span class="me">Seokju Cho</span>, Jiahui Huang, Jisu Nam, Honggyu An, Seungryong Kim, Joon-Young Lee</p>
+      <p class="pub-venue"><span class="venue">ECCV</span>, 2024</p>
+      <p class="pub-links"><a href="https://cvlab-kaist.github.io/locotrack/">Project Page</a> <a href="https://arxiv.org/abs/2407.15420">arXiv</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_FlowTrack_Revisiting_Optical_Flow_for_Long-Range_Dense_Tracking_CVPR_2024_paper.pdf">FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking</a></p>
+      <p class="pub-authors"><span class="me">Seokju Cho</span>, Jiahui Huang, Seungryong Kim, Joon-Young Lee</p>
+      <p class="pub-venue"><span class="venue">CVPR</span>, 2024</p>
+      <p class="pub-note">Work done during my internship at Adobe.</p>
+      <p class="pub-links"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_FlowTrack_Revisiting_Optical_Flow_for_Long-Range_Dense_Tracking_CVPR_2024_paper.pdf">Paper</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><span class="selected-dot" role="img" aria-label="Selected publication"></span><a href="https://cvlab-kaist.github.io/CAT-Seg/">CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation</a></p>
+      <p class="pub-authors"><span class="me">Seokju Cho*</span>, Heeseong Shin*, Sunghwan Hong, Anurag Arnab, Paul Hongsuck Seo, Seungryong Kim</p>
+      <p class="pub-venue"><span class="venue">CVPR</span>, 2024 &middot; <span class="award">Highlight</span> <span class="detail">(2.8% acceptance rate)</span></p>
+      <p class="pub-links"><a href="https://cvlab-kaist.github.io/CAT-Seg/">Project Page</a> <a href="https://arxiv.org/abs/2303.11797">arXiv</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://arxiv.org/abs/2403.11120">Unifying Feature and Cost Aggregation with Transformers for Dense Correspondence</a></p>
+      <p class="pub-authors">Sunghwan Hong*, <span class="me">Seokju Cho*</span>, Seungryong Kim, Stephen Lin</p>
+      <p class="pub-venue"><span class="venue">ICLR</span>, 2024</p>
+      <p class="pub-links"><a href="https://arxiv.org/abs/2403.11120">arXiv</a></p>
+    </article>
+
+    <h3 class="year">2023</h3>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://cvlab-kaist.github.io/DaRF/">DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation</a></p>
+      <p class="pub-authors">Jiuhn Song*, Seonghoon Park*, Honggyu An*, <span class="me">Seokju Cho</span>, Min-Seop Kwak, Sungjin Cho, Seungryong Kim</p>
+      <p class="pub-venue"><span class="venue">NeurIPS</span>, 2023</p>
+      <p class="pub-links"><a href="https://cvlab-kaist.github.io/DaRF/">Project Page</a> <a href="https://arxiv.org/abs/2305.19201">arXiv</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://cvlab-kaist.github.io/LANIT/">LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data</a></p>
+      <p class="pub-authors">Jihye Park*, Sunwoo Kim*, Soohyun Kim*, <span class="me">Seokju Cho</span>, Jaejun Yoo, Youngjung Uh, Seungryong Kim</p>
+      <p class="pub-venue"><span class="venue">CVPR</span>, 2023</p>
+      <p class="pub-links"><a href="https://cvlab-kaist.github.io/LANIT/">Project Page</a> <a href="https://arxiv.org/abs/2208.14889">arXiv</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://cvlab-kaist.github.io/MIDMs/">MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation</a></p>
+      <p class="pub-authors">Junyoung Seo*, Gyuseong Lee*, <span class="me">Seokju Cho</span>, Jiyoung Lee, Seungryong Kim</p>
+      <p class="pub-venue"><span class="venue">AAAI</span>, 2023</p>
+      <p class="pub-links"><a href="https://cvlab-kaist.github.io/MIDMs/">Project Page</a> <a href="https://arxiv.org/abs/2209.11047">arXiv</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://arxiv.org/abs/2202.06817">CATs++: Boosting Cost Aggregation with Convolutions and Transformers</a></p>
+      <p class="pub-authors"><span class="me">Seokju Cho*</span>, Sunghwan Hong*, Seungryong Kim</p>
+      <p class="pub-venue"><span class="venue">TPAMI</span>, 2023</p>
+      <p class="pub-links"><a href="https://arxiv.org/abs/2202.06817">arXiv</a></p>
+    </article>
+
+    <h3 class="year">2022</h3>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://cvlab-kaist.github.io/NeMF/">Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence</a></p>
+      <p class="pub-authors">Sunghwan Hong, Jisu Nam, <span class="me">Seokju Cho</span>, Susung Hong, Sangryul Jeon, Dongbo Min, Seungryong Kim</p>
+      <p class="pub-venue"><span class="venue">NeurIPS</span>, 2022</p>
+      <p class="pub-links"><a href="https://cvlab-kaist.github.io/NeMF/">Project Page</a> <a href="https://arxiv.org/abs/2210.02689">arXiv</a></p>
+    </article>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://seokju-cho.github.io/VAT/">Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation</a></p>
+      <p class="pub-authors">Sunghwan Hong*, <span class="me">Seokju Cho*</span>, Jisu Nam, Stephen Lin, Seungryong Kim</p>
+      <p class="pub-venue"><span class="venue">ECCV</span>, 2022</p>
+      <p class="pub-links"><a href="https://seokju-cho.github.io/VAT/">Project Page</a> <a href="https://arxiv.org/abs/2207.10866">arXiv</a></p>
+    </article>
+
+    <h3 class="year">2021</h3>
+
+    <article class="pub">
+      <p class="pub-title"><a href="https://arxiv.org/abs/2106.02520">CATs: Cost Aggregation Transformers for Visual Correspondence</a></p>
+      <p class="pub-authors"><span class="me">Seokju Cho*</span>, Sunghwan Hong*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, Seungryong Kim</p>
+      <p class="pub-venue"><span class="venue">NeurIPS</span>, 2021</p>
+      <p class="pub-links"><a href="https://arxiv.org/abs/2106.02520">arXiv</a></p>
+    </article>
+  </section>
+
+  <!-- ======================= Experience ======================= -->
+  <section id="experience">
+    <h2>Experience</h2>
+
+    <div class="entry">
+      <div class="entry-head">
+        <p class="entry-title">NVIDIA Research <span class="entry-sub">Research Intern &middot; Taipei, Taiwan (Remote)</span></p>
+        <p class="entry-when">Jan 2026 – Present</p>
+      </div>
+      <p class="entry-detail">Mentors: <a href="https://ryohachiuma.github.io/">Ryo Hachiuma</a> and <a href="https://minhungchen.netlify.app/">Min-Hung Chen</a></p>
+    </div>
+
+    <div class="entry">
+      <div class="entry-head">
+        <p class="entry-title">NVIDIA Research <span class="entry-sub">Research Intern &middot; Santa Clara, CA, USA</span></p>
+        <p class="entry-when">Jun 2025 – Nov 2025</p>
+      </div>
+      <p class="entry-detail">Mentors: <a href="https://oraziogallo.github.io">Orazio Gallo</a>, <a href="https://scholar.google.fr/citations?user=aBULkNwAAAAJ&amp;hl=en">Abhishek Badki</a>, <a href="https://research.nvidia.com/person/hang-su">Hang Su</a>, and <a href="https://www.jindongjiang.me">Jindong Jiang</a></p>
+    </div>
+
+    <div class="entry">
+      <div class="entry-head">
+        <p class="entry-title">Adobe Research <span class="entry-sub">Research Scientist Intern &middot; San Jose, CA, USA</span></p>
+        <p class="entry-when">Jun 2024 – Sep 2024</p>
+      </div>
+      <p class="entry-detail">Mentors: <a href="https://gabriel-huang.github.io">Gabriel Huang</a> and <a href="https://joonyoung-cv.github.io">Joon-Young Lee</a></p>
+    </div>
+
+    <div class="entry">
+      <div class="entry-head">
+        <p class="entry-title">Adobe Research <span class="entry-sub">Research Scientist Intern &middot; San Jose, CA, USA</span></p>
+        <p class="entry-when">Jun 2023 – Sep 2023</p>
+      </div>
+      <p class="entry-detail">Mentors: <a href="https://joonyoung-cv.github.io">Joon-Young Lee</a> and <a href="https://gabriel-huang.github.io">Gabriel Huang</a></p>
+    </div>
+  </section>
+
+  <!-- ======================= Education ======================= -->
+  <section id="education">
+    <h2>Education</h2>
+
+    <div class="entry">
+      <div class="entry-head">
+        <p class="entry-title">KAIST <span class="entry-sub">Integrated M.S./Ph.D. in Artificial Intelligence &middot; Seoul, Korea</span></p>
+        <p class="entry-when">2024 – 2027 (exp.)</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-head">
+        <p class="entry-title">Korea University <span class="entry-sub">Integrated M.S./Ph.D. in Computer Science and Engineering &middot; Seoul, Korea</span></p>
+        <p class="entry-when">2022 – 2024</p>
+      </div>
+      <p class="entry-detail">Transferred to KAIST with supervisor (degree incomplete).</p>
+    </div>
+
+    <div class="entry">
+      <div class="entry-head">
+        <p class="entry-title">Yonsei University <span class="entry-sub">B.S. in Computer Science &middot; Seoul, Korea</span></p>
+        <p class="entry-when">2018 – 2022</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ======================= Awards & Service ======================= -->
+  <section id="awards">
+    <h2>Awards &amp; Honors</h2>
+    <ul class="news-list">
+      <li><span class="date">Jun 2026</span><span>Outstanding Reviewer, CVPR 2026</span></li>
+      <li><span class="date">Nov 2025</span><span>Qualcomm Innovation Fellowship Finalist</span></li>
+      <li><span class="date">Jun 2024</span><span>Google East Asia Student Travel Grant for CVPR</span></li>
+      <li><span class="date">Sep 2021</span><span>3rd Place Award, AI Online Competition — Ministry of Science and ICT &amp; National IT Industry Promotion Agency (₩300M prize)</span></li>
+    </ul>
+
+    <h2>Academic Service</h2>
+    <ul class="news-list">
+      <li><span class="date">2026</span><span>Area Chair: NeurIPS Evaluations and Datasets Track</span></li>
+      <li><span class="date">2025</span><span>Reviewer: CVPR, ICCV, NeurIPS, WACV</span></li>
+      <li><span class="date">2024</span><span>Reviewer: CVPR, ECCV</span></li>
+      <li><span class="date">2023</span><span>Reviewer: CVPR, NeurIPS</span></li>
+    </ul>
+  </section>
+
+  </main>
+</div>
+
+<footer>
+  <p>&copy; 2026 Seokju Cho &middot; <a href="mailto:seokju.cho@kaist.ac.kr">seokju.cho@kaist.ac.kr</a></p>
+</footer>
+
+</body>
+</html>
