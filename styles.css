@@ -362,8 +362,6 @@ footer p {
     margin: 0.35rem 0 0;
     font-size: 1rem;
   }
-  .tagline br { display: none; }
-
   /* links flow inline with dot separators, like a compact header */
   .contact-links {
     grid-column: 1 / -1;
