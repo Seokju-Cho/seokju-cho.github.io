@@ -337,7 +337,7 @@ footer p {
     grid-template-columns:
       minmax(0, 1fr)
       minmax(0, 10.75rem)
-      1rem
+      1.35rem
       104px
       minmax(0, 1fr);
     grid-template-rows: auto auto auto;
@@ -364,7 +364,7 @@ footer p {
     grid-column: 2;
     grid-row: 2;
     align-self: start;
-    margin: 0.3rem 0 0;
+    margin: 0.5rem 0 0;
     font-size: 0.95rem;
   }
   /* links flow inline with dot separators, like a compact header */
@@ -373,6 +373,7 @@ footer p {
     grid-row: 3;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 0.25rem 0.75rem;
     margin-top: 0.8rem;
     padding-bottom: 0.85rem;
@@ -405,7 +406,7 @@ footer p {
     grid-template-columns:
       minmax(0, 1fr)
       minmax(0, 10.4rem)
-      0.85rem
+      1rem
       88px
       minmax(0, 1fr);
   }
@@ -416,6 +417,7 @@ footer p {
   .contact-links {
     display: grid;
     grid-template-columns: repeat(3, max-content);
+    justify-content: center;
     column-gap: 0.7rem;
   }
   .bio { padding-top: 1.2rem; }
