@@ -89,11 +89,15 @@
 
   <!-- ======================= Publications ======================= -->
   <section id="publications">
-    <h2>Publications</h2>
+    <div class="publications-heading">
+      <h2>Publications</h2>
+      <button class="publications-toggle" type="button" aria-expanded="false" aria-controls="publication-list" hidden>View all</button>
+    </div>
     <p class="section-note">
       * denotes equal contribution.
       <span class="selected-key"><span class="selected-dot" aria-hidden="true"></span> Selected work</span>
     </p>
+    <div id="publication-list">
     <h3 class="year">2026</h3>
 
     <article class="pub">
@@ -256,6 +260,34 @@
       <p class="pub-venue"><span class="venue">NeurIPS</span>, 2021</p>
       <p class="pub-links"><a href="https://arxiv.org/abs/2106.02520">arXiv</a></p>
     </article>
+    </div>
+    <script>
+      (() => {
+        const toggle = document.querySelector('.publications-toggle');
+        const entries = document.querySelectorAll('#publication-list > .pub, #publication-list > .year');
+
+        function setExpanded(expanded) {
+          let year;
+          entries.forEach((entry) => {
+            if (entry.classList.contains('year')) {
+              year = entry;
+              year.hidden = true;
+            } else {
+              entry.hidden = !expanded && !entry.querySelector('.selected-dot');
+              if (!entry.hidden && year) year.hidden = false;
+            }
+          });
+          toggle.setAttribute('aria-expanded', String(expanded));
+          toggle.textContent = expanded ? 'View selected' : 'View all';
+        }
+
+        setExpanded(false);
+        toggle.hidden = false;
+        toggle.addEventListener('click', () => {
+          setExpanded(toggle.getAttribute('aria-expanded') !== 'true');
+        });
+      })();
+    </script>
   </section>
 
   <!-- ======================= Experience ======================= -->
