@@ -429,7 +429,7 @@
       <div class="atlas-map">
         <svg id="travel-map" viewBox="0 0 1000 450" xmlns="http://www.w3.org/2000/svg" aria-labelledby="map-title map-description">
           <title id="map-title">My travel map</title>
-          <desc id="map-description">Twenty-seven destinations across North America, Europe, East Asia, and the Middle East. Select a destination below to read its travel notes.</desc>
+          <desc id="map-description">Twenty-seven destinations across North America, Europe, East Asia, and the Middle East. South Korea is marked as home. Select a destination below to read its travel notes.</desc>
           <defs>
             <pattern id="map-grid" width="83.333" height="83.333" patternUnits="userSpaceOnUse">
               <path d="M 83.333 0 L 0 0 0 83.333" fill="none" stroke="#d8ddd4" stroke-width="0.6" stroke-dasharray="2 5"/>
@@ -443,6 +443,10 @@
             <text x="720" y="315">INDIAN OCEAN</text>
           </g>
           <g id="travel-markers"></g>
+          <g id="travel-home" class="travel-home" transform="translate(855 134.72)" role="img" aria-label="Home — South Korea">
+            <circle class="home-disc" r="10"/>
+            <path class="home-icon" d="M-6 0 L0-5 L6 0 M-4-1 V5 H-1 V1 H1 V5 H4 V-1"/>
+          </g>
         </svg>
         <span class="atlas-north" aria-hidden="true">N<span>↑</span></span>
       </div>

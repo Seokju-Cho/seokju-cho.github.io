@@ -44,6 +44,14 @@ const travelPlaces = [
     'middle-east': [565, 117, 95, 42.75],
   };
   const svgNS = 'http://www.w3.org/2000/svg';
+  const home = document.getElementById('travel-home');
+
+  function sizeHomeMarker() {
+    // A representative location in South Korea; keep the icon readable on mobile.
+    const scale = map.viewBox.baseVal.width / (map.clientWidth || 1000);
+    home.setAttribute('transform', `translate(855 134.72) scale(${scale})`);
+  }
+  new ResizeObserver(sizeHomeMarker).observe(map);
 
   function svgElement(tag, attributes) {
     const element = document.createElementNS(svgNS, tag);
@@ -70,6 +78,8 @@ const travelPlaces = [
   function setRegion(region) {
     const view = views[region];
     map.setAttribute('viewBox', view.join(' '));
+    home.style.display = region === 'world' || region === 'asia' ? '' : 'none';
+    sizeHomeMarker();
     regionButtons.forEach((button) => {
       button.setAttribute('aria-pressed', String(button.dataset.region === region));
     });
