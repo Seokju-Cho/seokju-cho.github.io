@@ -78,8 +78,12 @@
 
   <!-- ======================= News ======================= -->
   <section id="news">
-    <h2>News</h2>
-    <ul class="news-list">
+    <div class="news-heading">
+      <h2>News</h2>
+      <button class="news-toggle" type="button" aria-expanded="false" aria-controls="news-list" hidden>View all</button>
+    </div>
+    <ul class="news-list" id="news-list">
+      <li><span class="date">Oct 2026</span><span>Recognized as a <strong>Top Area Chair</strong> for the NeurIPS 2026 Evaluations and Datasets Track.</span></li>
       <li><span class="date">Sep 2026</span><span><a href="https://spatialclaw.github.io/">SpatialClaw</a> accepted to <strong>NeurIPS 2026</strong>.</span></li>
       <li><span class="date">Jun 2026</span><span>Serving as an Area Chair for the NeurIPS 2026 Evaluations and Datasets Track.</span></li>
       <li><span class="date">Jun 2026</span><span>Selected as an Outstanding Reviewer for CVPR 2026.</span></li>
@@ -87,6 +91,20 @@
       <li><span class="date">Jan 2026</span><span>Started a research internship at NVIDIA Research in Taipei, Taiwan (Remote).</span></li>
       <li><span class="date">Nov 2025</span><span>Selected as a finalist for the Qualcomm Innovation Fellowship 2025.</span></li>
     </ul>
+    <script>
+      (() => {
+        const toggle = document.querySelector('.news-toggle');
+        const items = document.querySelectorAll('#news-list > li');
+        function setExpanded(expanded) {
+          items.forEach((item, index) => { item.hidden = !expanded && index >= 5; });
+          toggle.setAttribute('aria-expanded', String(expanded));
+          toggle.textContent = expanded ? 'View less' : 'View all';
+        }
+        setExpanded(false);
+        toggle.hidden = items.length <= 5;
+        toggle.addEventListener('click', () => setExpanded(toggle.getAttribute('aria-expanded') !== 'true'));
+      })();
+    </script>
   </section>
 
   <!-- ======================= Publications ======================= -->
@@ -336,7 +354,7 @@
     <div class="entry">
       <div class="entry-head">
         <p class="entry-title">KAIST <span class="entry-sub">Integrated M.S./Ph.D. in Artificial Intelligence &middot; Seoul, Korea</span></p>
-        <p class="entry-when">2024 – 2027 (exp.)</p>
+        <p class="entry-when">2024 – Present</p>
       </div>
     </div>
 
@@ -360,6 +378,7 @@
   <section id="awards">
     <h2>Awards &amp; Honors</h2>
     <ul class="news-list">
+      <li><span class="date">Oct 2026</span><span>Top Area Chair, NeurIPS 2026 Evaluations and Datasets Track</span></li>
       <li><span class="date">Jun 2026</span><span>Outstanding Reviewer, CVPR 2026</span></li>
       <li><span class="date">Nov 2025</span><span>Qualcomm Innovation Fellowship Finalist</span></li>
       <li><span class="date">Jun 2024</span><span>Google East Asia Student Travel Grant for CVPR</span></li>
