@@ -499,7 +499,7 @@ h3.year {
   .atlas-caption { width: 100%; }
   .atlas-regions button { min-height: 40px; padding: 0.35rem 0.5rem; }
   .atlas-footer { padding: 0.7rem 0.85rem; font-size: 0.7rem; }
-  .atlas-hint { display: none; }
+  .atlas-footer { display: none; }
   .blog-kicker { font-size: 0.63rem; }
 }
 
@@ -747,4 +747,37 @@ footer p {
   font-size: 0.8rem;
   white-space: nowrap;
   pointer-events: none;
+}
+
+.mobile-travel-places { display: none; }
+@media (max-width: 600px), (hover: none) {
+  .mobile-travel-places:not([hidden]) { display: block; margin-top: 0.7rem; }
+  .mobile-travel-region { padding: 0.75rem 0; }
+  .mobile-travel-region + .mobile-travel-region { border-top: 1px solid var(--line); }
+  .mobile-travel-region h3 {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin: 0 0 0.35rem;
+    color: var(--muted);
+    font: 500 0.8rem var(--sans);
+  }
+  .mobile-travel-region h3 span { font-size: 0.6rem; color: var(--faint); }
+  .mobile-travel-links { display: flex; flex-wrap: wrap; gap: 0.1rem 0.25rem; margin-left: -0.65rem; }
+  .mobile-travel-links a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    padding: 0.25rem 0.65rem;
+    border-radius: 5px;
+    color: var(--muted);
+    font-size: 0.86rem;
+  }
+  .mobile-travel-links a:hover,
+  .mobile-travel-links a[aria-current] {
+    color: var(--accent-dark);
+    background: #e2e9db;
+    text-decoration: none;
+  }
+  .atlas-footer { display: none; }
 }

@@ -36,6 +36,30 @@ const travelPlaces = [
   const entry = document.getElementById('travel-entry');
   const body = document.getElementById('travel-entry-body');
   const regionButtons = document.querySelectorAll('[data-region]');
+  const mobilePlaces = document.querySelector('.mobile-travel-places');
+  regionButtons.forEach((button) => {
+    if (button.dataset.region === 'world') return;
+    const places = travelPlaces.filter((place) => place.region === button.dataset.region);
+    const group = document.createElement('div');
+    group.className = 'mobile-travel-region';
+    const heading = document.createElement('h3');
+    heading.textContent = button.textContent;
+    const count = document.createElement('span');
+    count.textContent = String(places.length).padStart(2, '0');
+    heading.append(count);
+    const links = document.createElement('div');
+    links.className = 'mobile-travel-links';
+    places.forEach((place) => {
+      const link = document.createElement('a');
+      link.href = '#travel-entry';
+      link.dataset.place = place.id;
+      link.textContent = place.name;
+      links.append(link);
+    });
+    group.append(heading, links);
+    mobilePlaces.append(group);
+  });
+  mobilePlaces.hidden = false;
   const views = {
     world: [0, 0, 1000, 450],
     america: [125, 75, 240, 108],
@@ -110,8 +134,6 @@ const travelPlaces = [
       marker.setAttribute('transform', `translate(${x} ${y}) scale(${view[2] / 1000})`);
       marker.style.display = region === 'world' || place.region === region ? '' : 'none';
     });
-    const count = travelPlaces.filter((place) => region === 'world' || place.region === region).length;
-    document.getElementById('atlas-count').textContent = region === 'world' ? `${count} places, ${new Set(travelPlaces.map((place) => place.region)).size} regions` : `${count} places`;
   }
 
   function appendText(tag, text, parent = body, className = '') {
