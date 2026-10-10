@@ -40,7 +40,7 @@ assets/
 
 ## Travel journal
 
-The Blog section contains a world map with regional views and 26 destinations.
+The Blog section contains a world map with regional views and 27 destinations.
 The carousel initially shows photos from all destinations with no city selected.
 Select a map pin or destination name to filter its photos; use **All photos** to
 clear the selection. Arrow buttons, left/right keys, and horizontal swipes navigate

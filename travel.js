@@ -3,6 +3,7 @@
 const travelPlaces = [
   { id: 'new-york', name: 'New York', location: 'United States', region: 'america', lat: 40.71, lon: -74.01, notes: [], sights: [], photos: [{ src: 'assets/travel/img_5668.jpg', alt: 'Sunset between buildings on a busy New York street', comment: 'Manhattanhenge on 50th Street, New York, NY (2025)' }, { src: 'assets/travel/img_8214.jpg', hdrSrc: 'assets/travel/img_8214-hdr.jpg', alt: 'A small bird perched on a park chair', comment: 'A Sparrow of Bryant Park, New York, NY (2024)' }] },
   { id: 'san-diego', name: 'San Diego', location: 'United States', region: 'america', lat: 32.72, lon: -117.16, notes: [], sights: [], photos: [] },
+  { id: 'los-angeles', name: 'Los Angeles', location: 'California, United States', region: 'america', lat: 34.05, lon: -118.24, notes: [], sights: [], photos: [] },
   { id: 'denver', name: 'Denver', location: 'United States', region: 'america', lat: 39.74, lon: -104.99, notes: [], sights: [], photos: [] },
   { id: 'new-orleans', name: 'New Orleans', location: 'United States', region: 'america', lat: 29.95, lon: -90.07, notes: [], sights: [], photos: [] },
   { id: 'las-vegas', name: 'Las Vegas', location: 'United States', region: 'america', lat: 36.17, lon: -115.14, notes: [], sights: [], photos: [] },
