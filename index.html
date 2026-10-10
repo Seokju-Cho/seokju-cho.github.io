@@ -429,7 +429,7 @@
       <div class="atlas-map">
         <svg id="travel-map" viewBox="0 0 1000 450" xmlns="http://www.w3.org/2000/svg" aria-labelledby="map-title map-description">
           <title id="map-title">My travel map</title>
-          <desc id="map-description">Twenty-seven destinations across North America, Europe, East Asia, and the Middle East. South Korea is marked as home. Select a destination below to read its travel notes.</desc>
+          <desc id="map-description">Twenty-seven destinations across North America, Europe, East Asia, and the Middle East. South Korea is marked as home. Hover over a pin to see its name, or select it to view its photos.</desc>
           <defs>
             <pattern id="map-grid" width="83.333" height="83.333" patternUnits="userSpaceOnUse">
               <path d="M 83.333 0 L 0 0 0 83.333" fill="none" stroke="#d8ddd4" stroke-width="0.6" stroke-dasharray="2 5"/>
@@ -448,6 +448,7 @@
             <path class="home-icon" d="M-6 0 L0-5 L6 0 M-4-1 V5 H-1 V1 H1 V5 H4 V-1"/>
           </g>
         </svg>
+        <span id="map-tooltip" role="tooltip" hidden></span>
         <span class="atlas-north" aria-hidden="true">N<span>↑</span></span>
       </div>
       <div class="atlas-footer">
@@ -455,57 +456,6 @@
         <span class="atlas-hint">A map of memories</span>
       </div>
     </div>
-
-    <div class="travel-places" aria-label="Travel destinations">
-      <div class="travel-region">
-        <h3>North America <span>12</span></h3>
-        <div class="travel-region-links">
-          <a href="#travel-entry" data-place="new-york">New York</a>
-          <a href="#travel-entry" data-place="san-diego">San Diego</a>
-          <a href="#travel-entry" data-place="los-angeles">Los Angeles</a>
-          <a href="#travel-entry" data-place="denver">Denver</a>
-          <a href="#travel-entry" data-place="new-orleans">New Orleans</a>
-          <a href="#travel-entry" data-place="las-vegas">Las Vegas</a>
-          <a href="#travel-entry" data-place="seattle">Seattle</a>
-          <a href="#travel-entry" data-place="vancouver">Vancouver</a>
-          <a href="#travel-entry" data-place="bay-area">Bay Area</a>
-          <a href="#travel-entry" data-place="michigan">Michigan</a>
-          <a href="#travel-entry" data-place="nashville">Nashville</a>
-          <a href="#travel-entry" data-place="arizona">Arizona</a>
-        </div>
-      </div>
-      <div class="travel-region">
-        <h3>Europe <span>05</span></h3>
-        <div class="travel-region-links">
-          <a href="#travel-entry" data-place="rome">Rome</a>
-          <a href="#travel-entry" data-place="florence">Florence</a>
-          <a href="#travel-entry" data-place="milan">Milan</a>
-          <a href="#travel-entry" data-place="vienna">Vienna</a>
-          <a href="#travel-entry" data-place="budapest">Budapest</a>
-        </div>
-      </div>
-      <div class="travel-region">
-        <h3>East Asia <span>09</span></h3>
-        <div class="travel-region-links">
-          <a href="#travel-entry" data-place="hokkaido">Hokkaido</a>
-          <a href="#travel-entry" data-place="tokyo">Tokyo</a>
-          <a href="#travel-entry" data-place="osaka">Osaka</a>
-          <a href="#travel-entry" data-place="kyoto">Kyoto</a>
-          <a href="#travel-entry" data-place="nara">Nara</a>
-          <a href="#travel-entry" data-place="kanazawa">Kanazawa</a>
-          <a href="#travel-entry" data-place="nikko">Nikko</a>
-          <a href="#travel-entry" data-place="fukuoka">Fukuoka</a>
-          <a href="#travel-entry" data-place="taipei">Taipei</a>
-        </div>
-      </div>
-      <div class="travel-region">
-        <h3>Middle East <span>01</span></h3>
-        <div class="travel-region-links">
-          <a href="#travel-entry" data-place="israel">Israel</a>
-        </div>
-      </div>
-    </div>
-
 
     <p class="atlas-credit">Map: <a href="https://www.naturalearthdata.com/about/terms-of-use/">Natural Earth</a></p>
     </div>

@@ -42,7 +42,7 @@ assets/
 
 The Blog section contains a world map with regional views and 27 destinations.
 The carousel initially shows photos from all destinations with no city selected.
-Select a map pin or destination name to filter its photos; use **All photos** to
+Hover or focus a map pin to see its name; select it to filter photos; use **All photos** to
 clear the selection. Arrow buttons, left/right keys, and horizontal swipes navigate
 photos. Empty destinations show “Photos coming soon.” Photos advance every 20 seconds while the carousel is in view and the tab is active.
 Playback pauses while keyboard focus is inside the carousel and resumes when
@@ -64,8 +64,7 @@ The first six photos from `images/` are connected: two in New York, one in
 Nashville, one in the Bay Area, and two in Arizona. Browser-ready JPEG copies in `assets/travel/` are resized
 to a maximum of 1600 pixels, auto-oriented, and stripped of metadata; originals
 remain in `images/`. To add a destination, add its coordinates and content to `travelPlaces`
-and a matching `data-place` link under the appropriate region in `index.html`;
-update the region's displayed count. Hokkaido uses a regional pin; Israel uses a country-level pin. Vienna, Budapest, and Taipei use city coordinates.
+and update the static destination count and map description in `index.html`. Hokkaido uses a regional pin; Israel uses a country-level pin. Vienna, Budapest, and Taipei use city coordinates.
 
 Map geometry comes from [Natural Earth](https://www.naturalearthdata.com/),
 1:110m countries, and is in the public domain. The SVG is stored locally, so the

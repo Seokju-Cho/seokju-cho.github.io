@@ -43,6 +43,19 @@ const travelPlaces = [
     asia: [790, 95, 185, 83.25],
     'middle-east': [565, 117, 95, 42.75],
   };
+  const tooltip = document.getElementById('map-tooltip');
+  function showPlaceName(marker, place) {
+    tooltip.textContent = place.name;
+    tooltip.hidden = false;
+    const pin = marker.querySelector('.marker-dot').getBoundingClientRect();
+    const bounds = map.getBoundingClientRect();
+    const half = tooltip.offsetWidth / 2;
+    tooltip.style.left = `${Math.max(half + 6, Math.min(bounds.width - half - 6, pin.x + pin.width / 2 - bounds.x))}px`;
+    tooltip.style.top = `${pin.y - bounds.y - 9}px`;
+  }
+  function hidePlaceName() { tooltip.hidden = true; }
+  map.addEventListener('keydown', (event) => { if (event.key === 'Escape') hidePlaceName(); });
+  window.addEventListener('resize', hidePlaceName);
   const svgNS = 'http://www.w3.org/2000/svg';
   const home = document.getElementById('travel-home');
 
@@ -73,9 +86,14 @@ const travelPlaces = [
     marker.append(svgElement('circle', { r: 10, class: 'marker-halo' }));
     marker.append(svgElement('circle', { r: 4.5, class: 'marker-dot' }));
     markers.append(marker);
+    marker.addEventListener('pointerenter', () => showPlaceName(marker, place));
+    marker.addEventListener('pointerleave', hidePlaceName);
+    marker.addEventListener('focus', () => showPlaceName(marker, place));
+    marker.addEventListener('blur', hidePlaceName);
   });
 
   function setRegion(region) {
+    hidePlaceName();
     const view = views[region];
     map.setAttribute('viewBox', view.join(' '));
     home.style.display = region === 'world' || region === 'asia' ? '' : 'none';
@@ -253,7 +271,7 @@ const travelPlaces = [
 
   regionButtons.forEach((button) => button.addEventListener('click', () => setRegion(button.dataset.region)));
   document.querySelector('.atlas-regions').hidden = false;
-  document.querySelector('.atlas-hint').textContent = 'Select a pin or a place below';
+  document.querySelector('.atlas-hint').textContent = 'Hover to explore · Click to view photos';
   selectPlace();
 
   function restorePlace() {

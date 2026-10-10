@@ -468,52 +468,6 @@ h3.year {
 .atlas-footer .selected-dot { margin-right: 0.3rem; }
 .atlas-hint { font-style: italic; }
 
-.travel-places {
-  margin: 0.6rem 0 0;
-}
-
-.travel-region {
-  display: grid;
-  grid-template-columns: 8rem minmax(0, 1fr);
-  align-items: baseline;
-  gap: 0.5rem 1rem;
-  padding: 0.7rem 0;
-}
-
-.travel-region + .travel-region {
-  border-top: 1px solid var(--line);
-}
-
-.travel-region h3 {
-  display: flex;
-  align-items: baseline;
-  gap: 0.5rem;
-  margin: 0;
-  font-size: 0.95rem;
-}
-
-.travel-region h3 span { color: var(--faint); font: 0.65rem var(--sans); }
-
-.travel-region-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.15rem 0.25rem;
-}
-
-.travel-region a {
-  display: inline-flex;
-  align-items: center;
-  min-height: 36px;
-  padding: 0.25rem 0.65rem;
-  border-radius: 5px;
-  color: var(--muted);
-  font-size: 0.86rem;
-  transition: background-color 140ms ease, color 140ms ease;
-}
-
-.travel-region a:hover { color: var(--accent-dark); background: #f0f1e9; text-decoration: none; }
-.travel-region a[aria-current] { color: var(--accent-dark); background: #e2e9db; }
-
 .travel-entry {
   margin-bottom: 2rem;
   padding: 0;
@@ -546,10 +500,6 @@ h3.year {
   .atlas-regions button { min-height: 40px; padding: 0.35rem 0.5rem; }
   .atlas-footer { padding: 0.7rem 0.85rem; font-size: 0.7rem; }
   .atlas-hint { display: none; }
-  .travel-region { grid-template-columns: 1fr; gap: 0.4rem; }
-  .travel-region-links { margin-left: -0.65rem; }
-  .travel-region a { min-height: 44px; }
-  .travel-region h3 { font-size: 0.95rem; }
   .blog-kicker { font-size: 0.63rem; }
 }
 
@@ -779,10 +729,22 @@ footer p {
   padding-top: 1.35rem;
 }
 .atlas-caption { text-transform: none; letter-spacing: 0; font-size: 0.85rem; }
-.travel-region h3 { font-family: var(--sans); font-size: 0.8rem; font-weight: 500; color: var(--muted); }
-.travel-region h3 span { font-size: 0.6rem; }
 .atlas-credit { margin-top: 0.4rem; }
 @media (max-width: 540px) {
   .travel-entry { margin-bottom: 1.5rem; }
   .travel-explore { padding-top: 1rem; }
+}
+
+#map-tooltip {
+  position: absolute;
+  transform: translate(-50%, -100%);
+  padding: 0.35rem 0.65rem;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  background: var(--bg);
+  color: var(--ink);
+  box-shadow: 0 3px 12px rgb(33 31 26 / 8%);
+  font-size: 0.8rem;
+  white-space: nowrap;
+  pointer-events: none;
 }
