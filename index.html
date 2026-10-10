@@ -40,6 +40,7 @@
       <li><a href="https://scholar.google.com/citations?user=mvPfpnMAAAAJ">Google Scholar</a></li>
       <li><a href="https://www.linkedin.com/in/seokju-cho-43601b174/">LinkedIn</a></li>
       <li><a href="https://cal.com/hamacojr">Coffee Chat</a></li>
+      <li class="mobile-blog-link"><a href="#blog">Travel Blog</a></li>
     </ul>
     <nav class="side-nav" aria-label="Sections">
       <a href="#news">News</a>
@@ -47,6 +48,7 @@
       <a href="#experience">Experience</a>
       <a href="#education">Education</a>
       <a href="#awards">Awards</a>
+      <a href="#blog">Blog</a>
     </nav>
   </aside>
 
@@ -373,6 +375,137 @@
     </ul>
   </section>
 
+  <!-- ======================= Travel journal ======================= -->
+  <section id="blog" aria-labelledby="blog-title">
+    <div class="blog-heading">
+      <h2 id="blog-title">Blog</h2>
+      <span class="blog-kicker">A travel journal</span>
+    </div>
+    <p class="blog-intro">I love exploring new places and capturing little moments along the way.</p>
+
+    <article id="travel-entry" class="travel-entry" aria-labelledby="travel-entry-title" tabindex="-1">
+      <div class="travel-entry-heading">
+        <div>
+          <p class="travel-entry-meta" id="travel-entry-meta">Travel photos</p>
+          <h3 id="travel-entry-title">All photos</h3>
+        </div>
+        <button type="button" id="travel-show-all" hidden>All photos</button>
+      </div>
+      <div class="travel-carousel" role="region" aria-roledescription="carousel" aria-label="Travel photos" tabindex="0">
+        <div class="travel-photo-stage">
+          <img id="travel-photo" alt="" hidden>
+          <p id="travel-photo-empty">Photos coming soon.</p>
+          <div class="travel-photo-arrows" hidden>
+            <button type="button" id="travel-photo-prev" aria-label="Previous photo">‹</button>
+            <button type="button" id="travel-photo-next" aria-label="Next photo">›</button>
+          </div>
+        </div>
+        <div class="travel-photo-footer">
+          <p id="travel-photo-caption"></p>
+          <div class="travel-photo-controls" hidden>
+            <span id="travel-photo-count" aria-live="polite" aria-atomic="true"></span>
+
+          </div>
+        </div>
+      </div>
+      <p id="travel-photo-comment" hidden></p>
+      <div id="travel-entry-body">
+        <noscript>Enable JavaScript to browse photos by destination.</noscript>
+      </div>
+    </article>
+
+    <div class="travel-explore">
+    <div class="travel-atlas">
+      <div class="atlas-toolbar">
+        <span class="atlas-caption">Explore by place</span>
+        <div class="atlas-regions" role="group" aria-label="Map region" hidden>
+          <button type="button" data-region="world" aria-pressed="true">World</button>
+          <button type="button" data-region="america" aria-pressed="false">North America</button>
+          <button type="button" data-region="europe" aria-pressed="false">Europe</button>
+          <button type="button" data-region="asia" aria-pressed="false">East Asia</button>
+          <button type="button" data-region="middle-east" aria-pressed="false">Middle East</button>
+        </div>
+      </div>
+      <div class="atlas-map">
+        <svg id="travel-map" viewBox="0 0 1000 450" xmlns="http://www.w3.org/2000/svg" aria-labelledby="map-title map-description">
+          <title id="map-title">My travel map</title>
+          <desc id="map-description">Twenty-six destinations across North America, Europe, East Asia, and the Middle East. Select a destination below to read its travel notes.</desc>
+          <defs>
+            <pattern id="map-grid" width="83.333" height="83.333" patternUnits="userSpaceOnUse">
+              <path d="M 83.333 0 L 0 0 0 83.333" fill="none" stroke="#d8ddd4" stroke-width="0.6" stroke-dasharray="2 5"/>
+            </pattern>
+          </defs>
+          <rect x="0" y="0" width="1000" height="450" fill="url(#map-grid)"/>
+          <image href="assets/travel-world.svg" width="1000" height="450"/>
+          <g class="ocean-labels" aria-hidden="true">
+            <text x="105" y="265">PACIFIC OCEAN</text>
+            <text x="400" y="245">ATLANTIC OCEAN</text>
+            <text x="720" y="315">INDIAN OCEAN</text>
+          </g>
+          <g id="travel-markers"></g>
+        </svg>
+        <span class="atlas-north" aria-hidden="true">N<span>↑</span></span>
+      </div>
+      <div class="atlas-footer">
+        <span><span class="selected-dot" aria-hidden="true"></span> <span id="atlas-count">26 places, 4 regions</span></span>
+        <span class="atlas-hint">A map of memories</span>
+      </div>
+    </div>
+
+    <div class="travel-places" aria-label="Travel destinations">
+      <div class="travel-region">
+        <h3>North America <span>11</span></h3>
+        <div class="travel-region-links">
+          <a href="#travel-entry" data-place="new-york">New York</a>
+          <a href="#travel-entry" data-place="san-diego">San Diego</a>
+          <a href="#travel-entry" data-place="denver">Denver</a>
+          <a href="#travel-entry" data-place="new-orleans">New Orleans</a>
+          <a href="#travel-entry" data-place="las-vegas">Las Vegas</a>
+          <a href="#travel-entry" data-place="seattle">Seattle</a>
+          <a href="#travel-entry" data-place="vancouver">Vancouver</a>
+          <a href="#travel-entry" data-place="bay-area">Bay Area</a>
+          <a href="#travel-entry" data-place="michigan">Michigan</a>
+          <a href="#travel-entry" data-place="nashville">Nashville</a>
+          <a href="#travel-entry" data-place="arizona">Arizona</a>
+        </div>
+      </div>
+      <div class="travel-region">
+        <h3>Europe <span>05</span></h3>
+        <div class="travel-region-links">
+          <a href="#travel-entry" data-place="rome">Rome</a>
+          <a href="#travel-entry" data-place="florence">Florence</a>
+          <a href="#travel-entry" data-place="milan">Milan</a>
+          <a href="#travel-entry" data-place="vienna">Vienna</a>
+          <a href="#travel-entry" data-place="budapest">Budapest</a>
+        </div>
+      </div>
+      <div class="travel-region">
+        <h3>East Asia <span>09</span></h3>
+        <div class="travel-region-links">
+          <a href="#travel-entry" data-place="hokkaido">Hokkaido</a>
+          <a href="#travel-entry" data-place="tokyo">Tokyo</a>
+          <a href="#travel-entry" data-place="osaka">Osaka</a>
+          <a href="#travel-entry" data-place="kyoto">Kyoto</a>
+          <a href="#travel-entry" data-place="nara">Nara</a>
+          <a href="#travel-entry" data-place="kanazawa">Kanazawa</a>
+          <a href="#travel-entry" data-place="nikko">Nikko</a>
+          <a href="#travel-entry" data-place="fukuoka">Fukuoka</a>
+          <a href="#travel-entry" data-place="taipei">Taipei</a>
+        </div>
+      </div>
+      <div class="travel-region">
+        <h3>Middle East <span>01</span></h3>
+        <div class="travel-region-links">
+          <a href="#travel-entry" data-place="israel">Israel</a>
+        </div>
+      </div>
+    </div>
+
+
+    <p class="atlas-credit">Map: <a href="https://www.naturalearthdata.com/about/terms-of-use/">Natural Earth</a></p>
+    </div>
+  </section>
+
   </main>
 </div>
 
@@ -380,5 +513,6 @@
   <p>&copy; 2026 Seokju Cho &middot; <a href="mailto:seokju.cho@kaist.ac.kr">seokju.cho@kaist.ac.kr</a></p>
 </footer>
 
+<script src="travel.js" defer></script>
 </body>
 </html>
