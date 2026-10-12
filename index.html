@@ -110,7 +110,7 @@
   <!-- ======================= Publications ======================= -->
   <section id="publications">
     <div class="publications-heading">
-      <h2>Publications</h2>
+      <h2>Selected Publications</h2>
       <button class="publications-toggle" type="button" aria-expanded="false" aria-controls="publication-list" hidden>View all</button>
     </div>
     <p class="section-note">
@@ -284,6 +284,7 @@
     <script>
       (() => {
         const toggle = document.querySelector('.publications-toggle');
+        const heading = document.querySelector('.publications-heading h2');
         const entries = document.querySelectorAll('#publication-list > .pub, #publication-list > .year');
 
         function setExpanded(expanded) {
@@ -299,6 +300,7 @@
           });
           toggle.setAttribute('aria-expanded', String(expanded));
           toggle.textContent = expanded ? 'View selected' : 'View all';
+          heading.textContent = expanded ? 'Publications' : 'Selected Publications';
         }
 
         setExpanded(false);
